@@ -300,4 +300,5 @@ db.hotels.insertMany([
 
 
 
+
 )

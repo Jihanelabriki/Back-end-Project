@@ -4,7 +4,7 @@
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-    @Document(collection = "stations")
+    @Document(collection = "station")
     public class StationTrame {
 
         @Id
