@@ -10,7 +10,7 @@ public class WebConfig implements WebMvcConfigurer {
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**") // Applique CORS à toutes les routes
-                .allowedOrigins("http://localhost:53325") // Permet les requêtes depuis ce port (port de votre app Flutter)
+                .allowedOrigins("*") // Permet les requêtes depuis ce port (port de votre app Flutter)
                 .allowedMethods("GET", "POST", "PUT", "DELETE") // Méthodes autorisées
                 .allowedHeaders("*"); // Autoriser tous les en-têtes
     }

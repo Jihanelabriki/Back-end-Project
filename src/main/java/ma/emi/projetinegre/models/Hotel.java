@@ -13,8 +13,26 @@ public class Hotel {
         private double longitude;
         private String description;
         private String adresse;
+        private String image ;
+        private String url ;
 
-        // Getters, setters
+    public String getUrl() {
+        return url;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
+    }
+
+    // Getters, setters
         public String getId() {
             return id;
         }
