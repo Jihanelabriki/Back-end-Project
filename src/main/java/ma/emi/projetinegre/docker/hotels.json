@@ -6,7 +6,8 @@
     "description": "Un hôtel luxueux au cœur de Rabat",
     "adresse": "Place De La Gare, Avenue Haj Ahmed, Rue Cherkaoui, Rabat 10000",
     "image": "https://ocbm.ma/wp-content/uploads/2018/06/10-ibis-agdal-01.jpg",
-    "url": "https://all.accor.com/hotel/A0G2/index.fr.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=bing+maps"
+    "url": "https://all.accor.com/hotel/A0G2/index.fr.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=bing+maps",
+    "etoiles":3
   },
   {
     "name": "Rabat Marriott",
@@ -15,7 +16,8 @@
     "description": "Un hôtel avec une vue imprenable",
     "adresse": "Center Agdal, Av. Inaouin, Rabat 10000",
     "image": "https://idprestige.com/assets/images/articles/20220704105341.jpg",
-    "url": "https://www.marriott.com/fr/hotels/rbamc-rabat-marriott-hotel/overview/?msockid=146cf619f38f6db32471e5caf2c86c1e"
+    "url": "https://www.marriott.com/fr/hotels/rbamc-rabat-marriott-hotel/overview/?msockid=146cf619f38f6db32471e5caf2c86c1e",
+    "etoiles":5
   },
   {
     "name": "Smarts Hotel Agdal Rabat",
@@ -24,7 +26,8 @@
     "description": "Un hôtel avec une vue magique",
     "adresse": "35 Rue Azegza, Agdal, 10000 Rabat",
     "image": "https://th.bing.com/th/id/OIP.3xcPnAvxAZdV6vCadfxwcwHaE8?rs=1&pid=ImgDetMain",
-    "url": "https://www.booking.com/hotel/ma/smarts.fr.html?msockid=146cf619f38f6db32471e5caf2c86c1e"
+    "url": "https://www.booking.com/hotel/ma/smarts.fr.html?msockid=146cf619f38f6db32471e5caf2c86c1e",
+    "etoiles":3
   },
   {
     "name": "Hôtel Atlantic Agdal",
@@ -33,7 +36,8 @@
     "description": "Un hôtel avec une vue magique",
     "adresse": "20 Av. Al Atlas, Rabat",
     "image": "https://cf.bstatic.com/xdata/images/hotel/max300/328924793.jpg?k=13ee3e9626082e3ca292c066a15cd6c726623059a2a269473d042a2336c6c618&o=&hp=1",
-    "url": "https://atlanticagdal.com/"
+    "url": "https://atlanticagdal.com/",
+    "etoiles":4
   },
 
   {
@@ -43,7 +47,8 @@
     "description": "Arrondissement chic comprenant le jardin d'essais botaniques, avec des vergers et des palmiers",
     "adresse": "Pl. Talhah, Rabat",
     "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c0/4f/15/le-soundouss-hotel.jpg?w=900&h=-1&s=1",
-    "url": "https://soundousshotel.ma/superior-room/"
+    "url": "https://soundousshotel.ma/superior-room/",
+    "etoiles":4
   },
   {
     "name": "Rent Inn Suites Hôtel",
@@ -52,7 +57,8 @@
     "description": "Un hôtel avec une vue magique. Très bien situé, en plein centre ville",
     "adresse": "56 Rue Jabal Oukaïmeden, Rabat 10080",
     "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/324592866.jpg?k=16cbc191a558b4f6fe4d3b66ce7c936c7df8bda04a95fe969d18240b6784dd30&o=&hp=1",
-    "url": "https://rent-inn.ma/hotel"
+    "url": "https://rent-inn.ma/hotel",
+    "etoiles":4
   },
   {
     "name": "Gardenia Boutique Hôtel",
@@ -61,7 +67,8 @@
     "description": "Un hôtel avec une vue magique",
     "adresse": "23 Av. Al Atlas, Rabat 10080",
     "image": "https://th.bing.com/th/id/OIP.wY9JQICrDRt3lvN6TkctQwHaEo?rs=1&pid=ImgDetMain",
-    "url": "https://gardeniarabat.com/acces-contact/"
+    "url": "https://gardeniarabat.com/acces-contact/",
+    "etoiles":3
   },
   {
     "name": "Flower Town Hotel & Spa",
@@ -70,7 +77,8 @@
     "description": "Un hôtel avec une vue magique. Endroit calme",
     "adresse": "20 Av. Michlifen, Rabat 10090",
     "image": "https://th.bing.com/th/id/OIP.RHkKr0uBar4Ks2bTU4YrlgAAAA?rs=1&pid=ImgDetMain",
-    "url": "https://flowertown-hotel.com/"
+    "url": "https://flowertown-hotel.com/",
+    "etoiles":4
   },
   {
     "name": "Villa Aralia",
@@ -79,7 +87,8 @@
     "description": "Une ambiance extraordinaire",
     "adresse": "42 Av. des Nations Unies, Rabat 10000",
     "image": "https://th.bing.com/th/id/OIP.k6vdAAQYLFzvNtAXrDtcvAHaLH?rs=1&pid=ImgDetMain",
-    "url": "https://villaaralia.com/"
+    "url": "https://villaaralia.com/",
+    "etoiles":4
   },
   {
     "name": "Sofitel Rabat Jardin des Roses",
@@ -88,7 +97,8 @@
     "description": "Le prestige que vous cherchez",
     "adresse": "Avenue Imam Malek, Impasse, Rabat 10000",
     "image": "https://mbhub-wp.s3.eu-west-2.amazonaws.com/Mbhub/05/sofitel-rabat-jardin-des-roses.jpg",
-    "url": "https://sofitel.accor.com/fr/hotels/6813.html"
+    "url": "https://sofitel.accor.com/fr/hotels/6813.html",
+    "etoiles":5
   },
   {
     "name": "Hôtel Oscar",
@@ -97,7 +107,8 @@
     "description": "Très bien situé, en plein centre ville",
     "adresse": "401 Av. Hassan II, Rabat",
     "image": "https://th.bing.com/th/id/OIP.Pln7Ogtm2w-BxSUNElseuAHaE8?rs=1&pid=ImgDetMain",
-    "url": "https://oscarhotelbyatlasstudios.com/histoire/"
+    "url": "https://oscarhotelbyatlasstudios.com/histoire/",
+    "etoiles":4
   },
   {
     "name": "Helnan Chellah Rabat Hotel",
@@ -106,7 +117,8 @@
     "description": "Un hôtel avec une vue magique. Très bien situé, en plein centre ville",
     "adresse": "N2 Rue D'Ifni, Rabat 10010",
     "image": "https://th.bing.com/th/id/OIP.Tl72ALyYgs3v7UlQnoFyxQHaDl?rs=1&pid=ImgDetMain",
-    "url": "https://www.helnan.com/en/Hotel/helnan-chellah-rabat/?hid=e506a87e-27d5-4deb-ab7a-b4bddd3459f6"
+    "url": "https://www.helnan.com/en/Hotel/helnan-chellah-rabat/?hid=e506a87e-27d5-4deb-ab7a-b4bddd3459f6",
+    "etoiles":4
   },
   {
     "name": "Majliss hôtel Downtown",
@@ -115,7 +127,8 @@
     "description": "Un hôtel avec une vue magique. Très bien situé, en plein centre ville",
     "adresse": "6 Rue Zahla, Rabat 10000",
     "image": "https://majliss-hotel-rabat.hotelmix.fr/data/Photos/OriginalPhoto/15845/1584532/1584532776/Majliss-Hotel-Downtown-Rabat-Exterior.JPEG",
-    "url": "https://www.guestreservations.com/majliss-hotel/booking?msclkid=624d044aefc515e9c8e7631dbb9de38a"
+    "url": "https://www.guestreservations.com/majliss-hotel/booking?msclkid=624d044aefc515e9c8e7631dbb9de38a",
+    "etoiles": 4
   },
   {
     "name": "Hôtel Rihab",
@@ -124,7 +137,8 @@
     "description": "Un hôtel de luxe",
     "adresse": "45 Av. Moulay Ismail, Rabat 10000",
     "image": "https://res.cloudinary.com/djcyhbk2e/image/upload/f_auto,q_35,w_1200/v1/gvv/prod/wcnnntqex8f0cbbsvhyb",
-    "url": "https://www.rihabhotel.com/"
+    "url": "https://www.rihabhotel.com/",
+    "etoiles": 3
   },
   {
     "name": "La Tour Hassan Palace",
@@ -133,7 +147,8 @@
     "description": "Un hôtel raffiné",
     "adresse": "26 B.P. 14 Av. Chellah, Rabat 10000",
     "image": "https://th.bing.com/th/id/OIP.4ReRK3en07moufZkxrNlhgHaE-?rs=1&pid=ImgDetMain",
-    "url": "https://tourhassanpalace.com/"
+    "url": "https://tourhassanpalace.com/",
+    "etoiles": 4
   },
   {
     "name": "MGallery Le Diwan Rabat",
@@ -142,7 +157,8 @@
     "description": "Un hôtel avec une vue magique",
     "adresse": "Place De L'Unité Africaine Hassan District, Rabat 10005",
     "image": "https://th.bing.com/th/id/OIP.kcC4Yn8VqAr8IA8vns3puwHaE3?rs=1&pid=ImgDetMain",
-    "url": "https://all.accor.com/hotel/2820/index.fr.shtml?utm_term=nom&utm_campaign=ppc-mga-nom-msn-ww-fr-ww-mix-sear-bp&utm_medium=cpc&msclkid=dc6813f86784153544a574af3259f58c&utm_content=ww-fr-MA-V4871&utm_source=bing"
+    "url": "https://all.accor.com/hotel/2820/index.fr.shtml?utm_term=nom&utm_campaign=ppc-mga-nom-msn-ww-fr-ww-mix-sear-bp&utm_medium=cpc&msclkid=dc6813f86784153544a574af3259f58c&utm_content=ww-fr-MA-V4871&utm_source=bing",
+    "etoiles": 4
   },
   {
     "name": "Malak Hôtel",
@@ -151,7 +167,8 @@
     "description": "Très bien situé, en plein centre ville",
     "adresse": "23, Rue Chellah - Place Mellilia, Av. Moulay Hassan, Rabat",
     "image": "https://th.bing.com/th/id/OIP.MVT3678LBI6lSpmAOVZF7QHaLL?rs=1&pid=ImgDetMain",
-    "url": "http://malakhotel.com/"
+    "url": "http://malakhotel.com/",
+    "etoiles": 3
   },
   {
     "name": "Belere Hôtel Rabat",
@@ -160,7 +177,8 @@
     "description": "Un hôtel très bien situé",
     "adresse": "33 Av. Moulay Youssef, Rabat 10000",
     "image": "https://th.bing.com/th/id/OIP.VE_AJXenNiix71p5dAfOlgHaE8?rs=1&pid=ImgDetMain",
-    "url": "https://belere-hotels.com/fr"
+    "url": "https://belere-hotels.com/fr",
+    "etoiles": 3
   },
   {
     "name": "Hôtel Mercure Rabat Sheherazade",
@@ -169,7 +187,8 @@
     "description": "Un hôtel avec une vue imprenable",
     "adresse": "21 Rue de Tunis, Rabat 10000",
     "image": "https://pix10.agoda.net/hotelImages/591/59156/59156_17010511440050136654.jpg?s=1024x768",
-    "url": "https://www.booking.com/hotel/ma/mercure-sheherazade.fr.html?msockid=146cf619f38f6db32471e5caf2c86c1e"
+    "url": "https://www.booking.com/hotel/ma/mercure-sheherazade.fr.html?msockid=146cf619f38f6db32471e5caf2c86c1e",
+    "etoiles": 3
   },
   {
     "name": "Braat Hotel",
@@ -178,7 +197,8 @@
     "description": "Un hôtel avec une vue magique. Très bien situé, en plein centre ville",
     "adresse": "46 Av. Patrice Lumumba, Rabat 10010",
     "image": "https://th.bing.com/th/id/R.f99aee3509cce9172bc73284652d0fab?rik=KjDML4GkBfa6MA&riu=http%3a%2f%2fcdn-cms0.hotelrunner.com%2fassets%2fphotos%2flarge%2f47b67356-4820-4fee-9123-89942039e70a.jpg&ehk=f%2bMpY8OLEiqy%2bniYJxTzd%2fOitE2dbs7x0IuDn3lBPng%3d&risl=&pid=ImgRaw&r=0",
-    "url": "https://braat.ma/en/"
+    "url": "https://braat.ma/en/",
+    "etoiles": 3
   },
   {
     "name": "The White Palace Rabat",
@@ -187,16 +207,188 @@
     "description": "Doté d'une piscine extérieure, d'un jardin et offrant une vue sur le jardin, cet établissement est situé à 5,1 km de la bibliothèque nationale du Royaume du Maroc. Cette maison d'hôtes 5 étoiles propose une réception ouverte 24h/24 et un service de sécurité assuré toute la journée.",
     "adresse": "Angle Rue Bani Ourraine, Rabat 10000",
     "image": "https://th.bing.com/th/id/OIP.uU3hrA9UO8gYPCG8yC0BPwAAAA?rs=1&pid=ImgDetMain",
-    "url": "https://www.whitepalacerabat.com/"
+    "url": "https://www.whitepalacerabat.com/",
+    "etoiles": 5
+  },
+  {
+    "name": "The View Rabat",
+    "latitude": 33.96063393878085,
+    "longitude": -6.866034541615053,
+    "description": "Cet hôtel urbain élégant à la façade épurée se trouve à 7 km du palais royal de Rabat, à 5 km du jardin zoologique national de Rabat et à 7 km de la gare de Rabat-Agdal.",
+    "adresse": "Av. Annakhil, Rabat 10000",
+    "image": "https://th.bing.com/th/id/OIP.5HJGAJTDhUVRcBTFia6RJgHaE8?rs=1&pid=ImgDetMain",
+    "url": "https://theviewhotels.com/fr/our-views/hotel-rabat",
+    "etoiles": 5
+  },
+  {
+    "name": "Ville Mandarine",
+    "latitude": 33.96889155752013,
+    "longitude": -6.850585017493181,
+    "description": "Installée à Rabat, La Villa Mandarine vous accueille dans une orangeraie, à 5 minutes de route de la scène Nahda du festival Mawazine.",
+    "adresse": "19 Rue Oulad Bou'sbaa, Rabat 10770",
+    "image": "https://www.morocco-guide.com/images/1200/restaurant-villa-mandarine.jpg",
+    "url": "http://villamandarine.com/",
+    "etoiles": 4
+  },
+  {
+    "name": "Conrad Rabat Arzana",
+    "latitude": 33.911027067277885,
+    "longitude": -6.991560652848495,
+    "description": "Situé à Rabat, à 2,4 km de la plage d'Ech Chiahna, le Conrad Rabat Arzana propose une piscine extérieure, un parking privé gratuit, une salle de sport et plus encore.",
+    "adresse": "Plage Val d'Or, Rabat 12040",
+    "image": "https://www.tendancehotellerie.fr/local/cache-vignettes/L1200xH630/ff8f5e614dfc9aebacb0a7b13ca850-dfb25.jpg",
+    "url": "https://www.hilton.com/en/hotels/rbacici-conrad-rabat-arzana/?msockid=32d57755da1564511568627bdbc8652c",
+    "etoiles": 5
+  },
+  {
+    "name": "Executive Boutique Hotel Rabat",
+    "latitude": 34.02494413622278,
+    "longitude": -6.824128181666877,
+    "description": "Situé dans le quartier d'Agdal-Ryad à Rabat, cet hôtel propose des chambres 4 étoiles avec connexion Wi-Fi gratuite.",
+    "adresse": "72 Rue Oued Sebou, Rabat 10106",
+    "image": "https://images.trvl-media.com/lodging/108000000/107160000/107154300/107154243/7b715e51.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+    "url": "https://www.executiveboutiquehotels.com/",
+    "etoiles":"4 étoiles"
+  },
+  {
+    "name": "Story Rabat Boutique Hôtel & Spa",
+    "latitude": 33.96004334865863,
+    "longitude": -6.826874763732987,
+    "description": "Cet hôtel raffiné se trouve à 8 km de la nécropole de Chellah et à 9 km de la Villa des arts.",
+    "adresse": "Rue Bani Yadder, Rabat",
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/38465476.jpg?k=e32d37a24be675502e0fe30798b2d73b2ed1e40c5cb9d3d4708f195e40fc73bc&o=&hp=1",
+    "url":"https://www.story-rabat.com/fr/",
+    "etoiles":"4 étoiles"
+  },
+  {
+    "name": "StayHere Agdal 3",
+    "latitude": 34.023805953196366,
+    "longitude": -6.846100838195762,
+    "description": "Doté d'un salon commun et offrant une vue sur la ville, cet établissement est situé à 1,1 km de la bibliothèque nationale du Royaume du Maroc et à 4,4 km de la tour Hassan.",
+    "adresse": "3 Rue Oued Fès, Rabat",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhex0vtMUfVPsps-d4bA9vC1N65FEjBym4w&s",
+    "url":"https://stayhere.ma/area/agdal/",
+    "etoiles":3
+  },
+  {
+    "name": "Hôtel Lutece",
+    "latitude": 34.05111813225272,
+    "longitude": -6.836487800964375,
+    "description": "Situé à 2 minutes à pied de la médina, cet hôtel raffiné à l'atmosphère marocaine traditionnelle se trouve à 1 km de la kasbah des Oudayas, à 2 km de la gare de Rabat-Ville et à 3 km de la tour Hassan.",
+    "adresse": "29 Av. de la Résistance, Rabat 10000",
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/374063089.jpg?k=d3f38b0855b2dd0687eb02ff19737939d0409b09855fcf46b2e50c17d983ef0b&o=&hp=1",
+    "url":"https://hotellutecerabat.com/",
+    "etoiles":4
+  },
+  {
+    "name": "Hôtel Rabat",
+    "latitude": 34.05111813225272,
+    "longitude": -6.839234383030485,
+    "description": "Aménagé dans un bâtiment contemporain à la façade incurvée, cet hôtel élégant est pourvu d'un atrium de 7 étages. Il se trouve à 3 minutes à pied d'un arrêt de tramway et à 13 minutes de la célèbre tour Hassan, bâtie au XIIe siècle.",
+    "adresse": "21 Rue Shella Hassan, Rabat 10000",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOpGxsPwgM_TCz2yUflV0FyLRQzcsdKxTcQ&s",
+    "url":"http://www.hotelrabat.ma/",
+    "etoiles":4
+  },
+  {
+    "name": "Hôtel Ourida",
+    "latitude": 34.02494413622278,
+    "longitude": -6.837861091997429,
+    "description": "Un petit hôtel agréable. Prévu pour être des appartements, l'hôtel propose de grandes chambres. L'hôtel se trouve à Agdal, l'un des quartiers résidentiels.",
+    "adresse": "14 Rue Al Achaari, Rabat 10000",
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/462763927.jpg?k=1dd12187d1a9ace00e64bb4deba5acc037322d47dff52da6205904adffaf3c98&o=&hp=1",
+    "url":"http://www.ourida.ma/en-US/",
+    "etoiles":3
+  },
+  {
+    "name": "Onomo Hotel Rabat Médina",
+    "latitude": 34.04315298846728,
+    "longitude": -6.833741218898264,
+    "description": "Chaleureux et élégant, situé à 500 mètres de la gare de Rabat.",
+    "adresse": "2 Rue Ghandi, Rabat 10000",
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/311515467.jpg?k=564e5e9c1b6a3884ddcaa66cbd11ad8ca901129de3bfc0719a859c6c8f20a453&o=&hp=1",
+    "url":"https://www.onomohotels.com/hotel/onomo-hotel-rabat-medina/",
+    "etoiles":4
+  },
+  {
+    "name": "Hotel Farah Rabat",
+    "latitude": 34.045428820181726,
+    "longitude": -6.824128181666877,
+    "description": "Installé dans un bâtiment blanchi à la chaux d'inspiration mauresque, cet hôtel haut de gamme offre une vue sur le fleuve Bouregreg. Il se trouve à 5 minutes à pied de la tour Hassan, érigée au XIIe siècle.",
+    "adresse": "Place 16 Novembre, Bd Mohamed Lyazidi, Rabat 10000",
+    "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visitrabat.com%2Fen%2Flieux%2Ffarah-rabat%2F&psig=AOvVaw2guzJstOY5nuvkrPrEkLTy&ust=1734207242588000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPix-sfHpYoDFQAAAAAdAAAAABAE",
+    "url":"https://www.barcelo.com/fr-ma/hotel-rabat/",
+    "etoiles":3
+  },
+  {
+    "name": "Ubay Hôtel",
+    "latitude": 34.03973912638097,
+    "longitude": -6.848847420261873,
+    "description": "Situé dans le centre de Rabat, cet hôtel climatisé se trouve à seulement 1,6 km de la tour Hassan et à 3 km de l'océan Atlantique.",
+    "adresse": "257C+638, Rabat",
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max500/154421064.jpg?k=4354a90d60242da16e4bbf1e5f3d36fb377549c6ec676f2e66808e16fd44aa45&o=&hp=1",
+    "url":"https://www.booking.com/hotel/ma/ubay.fr.html",
+    "etoiles":3
+  },
+  {
+    "name": "NJ Hotel Rabat",
+    "latitude": 34.04315298846728,
+    "longitude": -6.824128181666877,
+    "description": "À 5 min à pied de la gare Rabat Ville et de la station de tramway Rabat Ville.",
+    "adresse": "63 Av. Moulay Youssef, Rabat 10020",
+    "image":"https://njhotel.ma/fr/images/img_1.jpg",
+    "url":"https://njhotel.ma/fr/index",
+    "etoiles":4
+  },
+  {
+    "name": "Hôtel Texuda",
+    "latitude": 34.048842453233846,
+    "longitude": -6.847474129228817,
+    "description": "Situé à proximité de l'océan, à seulement 10 minutes à pied de la médina de Rabat.",
+    "adresse": "32, Bv Al Moukawama, Rabat 10040",
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/496905046.jpg?k=56b1396033f442a05ea9e183819ea3eb80bf0b6b37c4ec4ebae7b8db24fae707&o=&hp=1",
+    "url":"https://hotel-texuda.hotelrunner.com/",
+    "etoiles":3
+  },
+  {
+    "name": "Hotel Balima",
+    "latitude": 34.04998030037837,
+    "longitude": -6.848847420261873,
+    "description": "Très bien situé sur l'avenue Mohammed V, cet hôtel est fréquenté par de nombreux artistes locaux et internationaux.",
+    "adresse": "Av. Mohammed V, Rabat",
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/181790317.jpg?k=b887d5f69bba0af8d48d95060fbfb168c92be8cc3ca7417689cf2f866342f410&o=&hp=1",
+    "url":"https://balimaresidences.com/en/home/",
+    "etoiles":4
+  },
+  {
+    "name": "Dar Mayssane",
+    "latitude": 34.03,
+    "longitude": -6.84,
+    "description": "le Riad Dar Mayssane propose un service chaleureux et agréable dans un cadre authentique",
+    "adresse": "13 Rue Faran Khechen - Bab al Alou, Médina de Rabat, Rabat, Maroc, 10000",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipN-cpWxn1gCVW4HrQNky_W6DhvmNvdHFtEd3q2B=w408-h544-k-no",
+    "url": "http://www.rabat-riad.com/",
+    "etoiles": 3
+  },
+  {
+    "name": "Riad Dar Alia",
+    "latitude": 34.028297,
+    "longitude": -6.835347,
+    "description": "à 5 minutes à pied de la scène du Bouregreg du festival Mawazine ainsi qu'à 500 mètres de la plage et du port de plaisance",
+    "adresse": "15, Rue El Hout - Rue Des Consuls,, Médina de Rabat, Rabat, Maroc, 10000",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM0xxA9QP8AjTjEYdekRouN732i-oWwGqSnzvE3=s1360-w1360-h1020",
+    "url": "https://www.dar-alia.com/",
+    "etoiles": 4
   },
   {
     "name": "Residence Davos Rabat",
     "latitude": 33.9799,
     "longitude": -6.82476,
     "description": "L'établissement assure des services de navette aéroport et de location de voitures. Cet appartement comprend une chambre, une télévision à écran plat, un coin salon et une salle de bains",
-    "adresse": "Agdal, Rabat, Maroc",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274500886.jpg?k=aee4fc6df657eae9bd3aabf26ca55707538fff12891f6b8b08a8f54eddf7d04a&o=&hp=1",
-    "url": "https://fr.planetofhotels.com/maroc/rabat/residence-davos-rabat"
+    "adresse": "Agdal, Rabat, Maroc ",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2e/06/ca/bd/residence-davos-rabat.jpg?w=1400&h=-1&s=1",
+    "url": "https://www.booking.com/hotel/ma/residence-davos-rabat.fr.html?aid=356980&label=gog235jc-1FCAsojAFCFXJlc2lkZW5jZS1kYXZvcy1yYWJhdEgNWANojAGIAQGYAQ24ARfIAQzYAQHoAQH4AQKIAgGoAgO4AsPk8roGwAIB0gIkNzE0M2E0NzYtYWE3Zi00ZTExLTgzNDAtN2Q0YjM4NTQwZmE42AIF4AIB&sid=701ccb040010edc0134a5271fb80971e&dest_id=-43376&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1734128510&srpvid=bd409ca2c2be00b0&type=total&ucfs=1&",
+    "etoiles": 3
   },
   {
     "name": "Riad Sidi Fatah",
@@ -204,8 +396,9 @@
     "longitude": -6.837572,
     "description": "Niché au cœur de la ville historique de Rabat, le Riad Sidi Fatah est un véritable havre de paix qui allie tradition et confort moderne.",
     "adresse": "12 Rue Benacer Lakrari, Médina de Rabat, Rabat, Maroc, 10000",
-    "image": "https://th.bing.com/th/id/OIP.PAn6xBD5ESL0xwMtTrixFwHaE5?rs=1&pid=ImgDetMain",
-    "url": "https://www.riad-sidifatah-rabat.com"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM3cRFgwMLeUBnzYepfGIxZ3zQiLHE7cqNeOZ_a=s1360-w1360-h1020",
+    "url": "https://www.booking.com/hotel/ma/riad-sidi-fatah.fr.html?aid=311984&label=riad-sidi-fatah-aaR%2Adq9D71UyaaGij1zyyQS626007835623%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2007851544416%3Akwd-23198565053%3Alp1029462%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&sid=701ccb040010edc0134a5271fb80971e&dest_id=-43376&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1734128692&srpvid=2bf19d02c8db0227&type=total&ucfs=1&",
+    "etoiles": 4
   },
   {
     "name": "Studios Taha",
@@ -213,8 +406,9 @@
     "longitude": -6.8334282,
     "description": "L'établissement dispose d'une réception ouverte 24h/24 et d'un restaurant avec un coin repas extérieur. Ce Bed & Breakfast dispose d'une connexion Wi-Fi gratuite...",
     "adresse": "Avenue Haj Hassan Akkari Rabat N 4, El Akkari, Rabat, Maroc, 10000",
-    "image": "https://th.bing.com/th/id/OIP.wPn7IUGcaqXymqz3J5FjewHaEK?rs=1&pid=ImgDetMain",
-    "url": "https://fr.readytotrip.com/hotels/Maroc/Rabat-Sal%C3%A9-Zemmour-Za%C3%ABr./Rabat/M%C3%A9dina/studios-taha/"
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/289243873.jpg?k=b6a2f1a07a0e76714f1459b0dc1ea77eaba89f3cf94abe921537dcbd8b06cded&o=&hp=1",
+    "url": "https://www.booking.com/hotel/ma/studios-taha.fr.html?aid=311089&label=studios-taha-1mpBd1B56HhWdR6B8qHkQgS161718237563%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2007851544416%3Akwd-171251998406%3Alp1029462%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YWiN3YY6Tdistu3PpCLSviE&sid=701ccb040010edc0134a5271fb80971e&dest_id=-43376&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1734128757&srpvid=c8269d249a8f063d&type=total&ucfs=1&activeTab=photosGallery",
+    "etoiles": 3
   },
   {
     "name": "STORY Rabat",
@@ -222,8 +416,9 @@
     "longitude": -6.8156112,
     "description": "STORY Rabat est un boutique hôtel de luxe situé dans le quartier des Ambassadeurs à Rabat.Réputée pour son style de service sur mesure, ses intérieurs bien pensés et ses vastes espaces d’hébergement",
     "adresse": "Rue Bani Yadder Quartier des Ambassadeurs, Rabat 10220 Morocco",
-    "image": "https://th.bing.com/th/id/OIP.oZJY1KjLH6oLOqipjN03aAHaEH?rs=1&pid=ImgDetMain",
-    "url": "https://www.story-rabat.com/fr/"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMQ4IlTq17N-Z3QJj53mJ594XVr418Muv01AZVQ=s1360-w1360-h1020",
+    "url": "https://www.story-rabat.com/fr/",
+    "etoiles": 5
   },
   {
     "name": "Riad Dar Soufa",
@@ -231,8 +426,9 @@
     "longitude": -6.8395664,
     "description": "Le Riad Dar Soufa est situé dans une rue calme, juste à côté de l'avenue Mohamed V, communément appelée Legza dans la médina.",
     "adresse": "7 Derb Souaf Legza Médina, Rabat 10000 Morocco",
-    "image": "https://th.bing.com/th/id/R.b5a64f84b0976f617319ce9dff37c47f?rik=5ClwQTyV%2f59DDA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-khGdFAhbqUc%2fT6Tx43CXZMI%2fAAAAAAAAAYo%2fB5YAwyoGJxw%2fs1600%2fDSC_0385.JPG&ehk=plwKDPFOuonL9IJ1mtrBAsNXRdAmMFsIhf8eq646tLU%3d&risl=&pid=ImgRaw&r=0",
-    "url": "https://riadrabatmedinadarsoufa.blogspot.com/"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM97W2qpMI9NxNcYu-f0I2l1fN6l6MjsHe1d3Mx=s1360-w1360-h1020",
+    "url": "https://riadrabatmedinadarsoufa.blogspot.com/",
+    "etoiles": 4
   },
   {
     "name": "Euphoriad",
@@ -240,8 +436,9 @@
     "longitude": -6.838946,
     "description": "La Maison Euphoria, autrefois propriété du Pacha Bargach à Rabat, reflète le mode de vie des familles notables de la société traditionnelle Rabatienne.",
     "adresse": "7-9 Impasse Caid Bargach Ancienne medina, Rabat 10030 Morocco",
-    "image": "https://th.bing.com/th/id/OIP.tluybfp7-hIR8rQWRlO9agHaE7?rs=1&pid=ImgDetMain",
-    "url": "https://www.euphoriad.com/"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMjN06e4r64hN3U3kwwUtJTwxtwnq3i1EO7HXOH=s1360-w1360-h1020",
+    "url": "https://www.euphoriad.com/",
+    "etoiles": 4
   },
   {
     "name": "Dar Zouhour",
@@ -249,8 +446,9 @@
     "longitude": -6.838732,
     "description": "Composé de trois suites autour du patio, chacune avec salle de bain privée, télévision, connexion Internet et climatisation.",
     "adresse": "4 Impasse Kaid Bargach 4 Impasse Kaid Bargach Medina, Rabat 10030 Morocco",
-    "image": "https://th.bing.com/th/id/R.55adf608f41085e97b351bce3239eef9?rik=7KKxiNVaNHjr2A&pid=ImgRaw&r=0",
-    "url": "https://hoteldarzouhourrabat.hotelmix.fr/"
+    "image": "https://lh3.googleusercontent.com/proxy/sR9XTYDcqmMYVw9-2J-a_Mnm89Bn3WUfM_U8MdR0MF1CDDs3-imeu5q7RbEUJIO2lk0LO5DDu4k4qi-QI68pFxmV7o9uMLw2bgSshNKdVuemAJC3cbGVNhoDT4eD3S5dl5JB2BbGvc2hq6K3Iu9MxIjGThX2qQ=s1360-w1360-h1020",
+    "url": "https://www.booking.com/hotel/ma/dar-zouhour.fr.html?aid=311984&label=dar-zouhour-yE_U7h2ET2V6Cow_Ng%2ABBQS630529847954%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2007851544416%3Akwd-17113303524%3Alp1029462%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&sid=701ccb040010edc0134a5271fb80971e&dest_id=-43376&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1734129044&srpvid=91359db339990170&type=total&ucfs=1&",
+    "etoiles": 3
   },
   {
     "name": "Riad Meftaha",
@@ -258,8 +456,9 @@
     "longitude": -6.8425519,
     "description": "Le Riad Meftaha, une maison d'hôtes au cœur de la ville de Rabat, proche de la médina, des souks et de la mer.",
     "adresse": "15 Rue Iran Quartier Marassa Ocean, Rabat 10000 Morocco",
-    "image": "https://th.bing.com/th/id/OIP.lQvvA2ZorDoM1r_vxLroDQHaED?rs=1&pid=ImgDetMain",
-    "url": "https://riad-meftaha.com/"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNfED74wEzKDaivLLBtTtdxtyh4X1WbQ6jGZu0K=s1360-w1360-h1020",
+    "url": "https://www.riad-meftaha.com/",
+    "etoiles": 3
   },
   {
     "name": "Maple Farm Bed and Breakfast Malta",
@@ -267,28 +466,143 @@
     "longitude": 14.39699,
     "description": "Maple Farm, située dans un cadre rural à la périphérie de l'ancienne ville de Mdina, offre un hébergement confortable dans un environnement paisible avec une grande piscine et de vastes jardins.",
     "adresse": "Buskett Road, Rabat, Island of Malta 2705 Malta",
-    "image": "https://th.bing.com/th/id/R.a7a256b37c0a231effc984f04e5a73a5?rik=8lYJHi5lC%2bD2Sg&pid=ImgRaw&r=0",
-    "url": "https://www.maplefarmbedandbreakfast.com/"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOyAOLvpMas5eZ8gGVL09eT_CVc-y8OEj2Vi6cr=s680-w680-h510",
+    "url": "https://www.maplefarmbedandbreakfast.com/",
+    "etoiles": 4
   },
   {
     "name": "Myn in Rabat",
     "latitude": 35.8836694,
-    "longitude": 14.3985816,
+    "longitude":14.3985816,
     "description": "MYN vous encourage à vivre comme un local à Rabat ; flânez dans les ruelles sinueuses, buvez du thé dans des verres sans poignée dans un club traditionnel, ou achetez du pain chaud chez le boulanger local à déguster sur la place.",
     "adresse": "17 Arcadia Triq Bir L-Iljun Street, Rabat, Island of Malta RBT 1364 Malta",
-    "image": "https://th.bing.com/th/id/OIP.8QPCl1CB7UlPAN8NfD9XWgHaFj?rs=1&pid=ImgDetMain",
-    "url": "https://mynmalta.com/"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMSympB7WNkkRU7KSWAlGBoM7DQA4O8b9NaDQRq=s1360-w1360-h1020",
+    "url": "https://mynmalta.com/",
+    "etoiles": 3
   },
   {
     "name": "Riad à la Belle Etoile",
     "latitude": 34.036264,
-    "longitude": -6.825728,
-    "description": "e Riad à la Belle Etoile, premier riad de la médina de Rabat/Salé, vous offre un service hôtelier de haute qualité dans l'une des maisons les plus authentiques et raffinées de la médina.",
+    "longitude":-6.825728,
+    "description": "e Riad à la Belle Etoile, premier riad de la médina de Rabat/Salé, vous offre un service hôtelier de haute qualité dans l'une des maisons les plus authentiques et raffinées de la médina. ",
     "adresse": "14 saniat Sabounji Médina, Sale 11001 Morocco",
-    "image": "https://th.bing.com/th/id/R.58c16767009c41b9c09891b38edaa09f?rik=UrhRGszFwolh3w&pid=ImgRaw&r=0",
-    "url": "https://www.visitrabat.com/lieux/riad-a-la-belle-etoile/"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMuNlj-Qr5Ju8nt569-acIGKsjVKdU5CAHYsiPs=s1360-w1360-h1020",
+    "url": "https://www.booking.com/hotel/ma/riad-a-la-belle-etoile.fr.html?label=hotel-98668-ma-9eHM*Y1*hZWrB_dzFGS4pwS384137236257%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2007851544416%3Akwd-11164345389%3Alp1029462%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&sid=701ccb040010edc0134a5271fb80971e&gclid=Cj0KCQiA0--6BhCBARIsADYqyL-qrbBS3QUcdKo8hF1btTl5VcYwFIkBEeKoBB826V7FUNkJZVJkfDUaAhRdEALw_wcB&aid=311984&ucfs=1&dest_id=-44092&dest_type=city&group_adults=2&no_rooms=1&group_children=0&atlas_src=sr_iw_title",
+    "etoiles": 4
   }
+  ,
+  {
+    "name": "Rive Hôtel",
+    "latitude": 34.03632512688295,
+    "longitude": -6.813141853402434,
+    "description": "À environ 5 minutes de marche de la gare ferroviaire et à proximité des attractions touristiques telles que la tour Hassan de Rabat.",
+    "adresse": "N°1 Rue Tindouf, Hassan, Rabat 10000",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/3c/c5/c1/rive-hotel.jpg",
+    "url": "https://www.rivehotel.com/",
+    "etoiles": 4
+  },
+  {
+    "name": "Qodwa Palace Rabat",
+    "latitude": 33.854046236236236,
+    "longitude": -6.818635017534655,
+    "description": "Situé à Rabat, à 13 km du Royal Golf Dar Es Salam, le Palais Qodwa Rabat propose un jardin, un parking privé gratuit, une terrasse et un restaurant.",
+    "adresse": "Ctre Commune El Menzeh, Rabat 10150",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529660180.jpg?k=9e8503bece41b6a736bf3c3fd7215197f973d81c92e38ced719ceaa5d9f23fef&o=&hp=1",
+    "url": "https://www.booking.com/hotel/ma/palais-qodwa.fr.html",
+    "etoiles" : 5
+  },
+  {
+    "name": "Hôtel Le Musée",
+    "latitude": 34.015984689664606,
+    "longitude": -6.83232421879884,
+    "description": "Situé à Rabat, à 900 mètres du stade de tennis, cet hôtel propose des chambres climatisées munies d'une connexion Wi-Fi gratuite.",
+    "adresse": "Rue Ben Ghazi, Rabat",
+    "image": "https://www.hotellemusee.com/assets/img/hotellemusee-rabat/startpage/gallery/hotellemusee-rabat-hm-gallery001.jpg",
+    "url": "https://www.hotellemusee.com/",
+    "etoiles" : 3
+  },
+  {
+    "name": "Hotel Paris",
+    "latitude": 34.02098631218915,
+    "longitude": -6.841356593551691,
+    "description": "À 15 minutes de route de l'aéroport de Rabat-Salé.",
+    "adresse": "N1, 139 Av. Hassan II, Rabat 10060",
+    "image": "https://hotel-de-paris-rabat.albooked.com/data/Photos/450x450/6007/600754/600754551/Hotel-De-Paris-Rabat-Exterior.JPEG",
+    "url": "https://www.booking.com/hotel/ma/de-paris-rabat.fr.html",
+    "etoiles" : 3
+  },
+  {
+    "name": "Riad Dar El Kebira",
+    "latitude": 34.028,
+    "longitude": -6.835,
+    "description": " Un charmant riad dans la médina de Rabat.",
+    "adresse": "Rue des Consuls, 1 Impasse Belghazi, Ferrane Znaki, Médina",
+    "image": "https://www.darelkebira.com/wp-content/uploads/2022/01/Dar-el-Kebira-33.jpg",
+    "url": "https://www.darelkebira.com/",
+    "etoiles" : 5
+
+  },
+  {
+    "name": "Le Pietri Urban Hotel",
+    "latitude": 34.0162248,
+    "longitude": -6.8322057,
+    "description": "établissement 3 étoile disposes d'une multitude d'équipements pour améliorer la qualité et le confort de votre séjour. ",
+    "adresse": "4, Rue Tobrouk, Quartier Hassan, Rabat, Maroc, 10000 ",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/04/21/84/11/le-pietri-urban-hotel.jpg",
+    "url": "https://lepietri.com/",
+    "etoiles" : 3
+
+  },
+  {
+    "name": "Dar Aida",
+    "latitude": 34.024423861555,
+    "longitude": -6.828917583858,
+    "description": "cet établissement vous permet d'accéder facilement à des attractions intéressantes et de profiter d'options de restauration pour satisfaire votre appétit",
+    "adresse": "rue Frej, n° 7 Medina , Médina de Rabat, Rabat, Maroc, 10000 ",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/01/53/c7/43/le-patio.jpg",
+    "url": "https://traditional-house-morocco.com/",
+    "etoiles" : 3
+
+  },
+  {
+    "name": "Riad Khalik Lili",
+    "latitude": 34.014742734647,
+    "longitude": -6.835095359436,
+    "description": "Les équipements et services proposés par Riad Khalik Lili garantissent un séjour agréable à tous les clients",
+    "adresse": "7 Rue Sidi Mohamed Daoui, Médina de Rabat, Rabat, Maroc, 10000",
+    "image": "https://pix10.agoda.net/hotelImages/420637/0/4137b64ce0a29dc39d7871d339cf4289.jpeg?s=414x232",
+    "url": "https://www.agoda.com/fr-fr/riad-khalik-lili/hotel/rabat-ma.html?cid=1844104&ds=ifBQxTxA%2F9hoAS0H",
+    "etoiles" : 4
+  },
+  {
+    "name": "Riad Zyo",
+    "latitude": 34.0260534,
+    "longitude": -6.8405273,
+    "description": "Riad Zyo est facilement accessible à partir de l'aéroport. Il vous est même possible de réserver votre transfert depuis l'aéroport en avance pour plus de tranquillité",
+    "adresse": "5 Rue Moreno Legza Medina, Médina de Rabat, Rabat, Maroc, 10000",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/1a/b8/90/riad-zyo.jpg",
+    "url": "https://www.booking.com/hotel/ma/riad-zyo.fr.html",
+    "etoiles" : 3
+  },
+  {
+    "name": "Dar Yanis",
+    "latitude": 34.025109,
+    "longitude": -6.840442,
+    "description": "Dar Yanis est situé à seulement 5 minutes à pied de la médina de Rabat et de la plage.",
+    "adresse": "20 rue Lalla Hannou Legza, Médina de Rabat, Rabat, Maroc, 10000",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/95/d5/2c/dar-yanis.jpg",
+    "url": "http://www.daryanis.com/",
+    "etoiles" : 4
+  },
+  {
+    "name": "Dar Shaan",
+    "latitude": 34.02842,
+    "longitude": -6.83746,
+    "description": "Il met à votre disposition une terrasse et une connexion Wi-Fi gratuite. Vous séjournerez à 10 minutes à pied de la plage. ",
+    "adresse": "Rue Jirari, Médina de Rabat, Rabat, Maroc, 10000",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/66/ad/e1/dar-shaan.jpg",
+    "url": "https://dar-shaan.com/",
+    "etoiles" : 3
+  }
+
 ]
-
-
-

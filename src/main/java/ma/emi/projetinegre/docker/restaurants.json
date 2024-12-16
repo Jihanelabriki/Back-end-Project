@@ -1,0 +1,514 @@
+[
+  {
+    "nom": "Dar Zaki",
+    "longitude": -6.833832,
+    "latitude":  34.026900,
+    "adresse": "23 Rue Moulay Brahim, Rabat 10000",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 666955920",
+    "horaires": "19:00 - 22:00",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/ff/7d/37/dar-zaki.jpg"
+  },
+  {
+    "nom": "Le Petit Beur",
+    "longitude": -6.8350302894633455,
+    "latitude":  34.017951393233105,
+    "adresse": "Rue damas, Rabat 10000",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 537731322",
+    "horaires": "19:00 - 22:00",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/ee/e1/11/le-p-tit-beur.jpg"
+  },
+  {
+    "nom": "Al Warda",
+    "longitude": -6.837388560628635,
+    "latitude":  33.99032429451013,
+    "adresse": "Av. Doustour, Rabat",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 537675656",
+    "horaires": "19:00 - 23:30",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/04/67/ee/80/al-warda.jpg"
+  },
+  {
+    "nom": "Dar El Medina",
+    "longitude": -6.833550,
+    "latitude": 34.026655,
+    "adresse": "3 rue benjelloul souk sebbat, Rabat",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 702707071",
+    "horaires": "19:00 - 22:00",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-i/19/74/c0/2b/restaurant.jpg"
+  },
+  {
+    "nom": "Dinarjat",
+    "longitude": -6.837834,
+    "latitude": 34.028309,
+    "adresse": "6 Rue Belgnaoui, Rabat 10030",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 537704239",
+    "horaires": "19:00 - 23:00",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-p/19/6f/7f/4a/salle.jpg"
+  },
+  {
+    "nom": "Restaurant Dar Naji",
+    "longitude": -6.847033,
+    "latitude": 34.004851,
+    "adresse": "26 10000 Av. Omar Ibn Al Khattab, Rabat",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 537779933",
+    "horaires": "12:00 - 22:00",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/90/d5/79/dsc-3870-largejpg.jpg"
+  },
+  {
+    "nom": "La Koutoubia",
+    "longitude":  -6.830846,
+    "latitude": 34.014872,
+    "adresse": "2579+VMF, Rabat",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 537701075",
+    "horaires": "08:00 - 23:00",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/23/50/2b/photo0jpg.jpg"
+  },
+  {
+    "nom": "Dar Rbatia",
+    "longitude":  -6.839741,
+    "latitude": 34.027263,
+    "adresse": "6 rue Farane Khachane, Rue Sidi Fateh, Rabat 10000",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 661183716",
+    "horaires": "11:00 - 23:45",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/36/2a/87/photo1jpg.jpg"
+  },
+  {
+    "nom": "Restaurant du Riad Kalaa",
+    "longitude":  -6.837746,
+    "latitude": 34.028057,
+    "adresse": "Rue Zebdi, Rabat",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 661226644",
+    "horaires": "13:00 - 22:00",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/c0/4b/bc/riad-kalaa.jpg"
+  },
+  {
+    "nom": "Tajine Wa Tanjia",
+    "longitude":  -6.837314,
+    "latitude": 34.015710,
+    "adresse": "2587+637، Rue de Baghdad, Rabat",
+    "categorie": "Marocain",
+    "numero_de_telephone": "+212 537729797",
+    "horaires": "10:00 - 02:00",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/2d/c4/08/tajine-wa-tanjia.jpg"
+  },
+  {
+    "nom": " Il Giardino",
+    "longitude":-6.821753,
+    "latitude":34.015833 ,
+    "adresse": "2 Bis, Avenue Ahmed El Yazidi, Rabat",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 661-581589",
+    "horaires": "12:00  - 15:00 ,19:00 PM - 23:00 ",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/8f/0a/3a/il-giardino.jpg?w=900&h=500&s=1"
+  },
+  {
+    "nom": "La Mamma",
+    "longitude":-6.8347645,
+    "latitude": 34.018515,
+    "adresse": "6 Rue Tanta, Rabat",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 037707329",
+    "horaires": "12:00 - 15:00 ,19:30 - 00:00 ",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9b/8f/76/photo1jpg.jpg?w=1000&h=-1&s=1"
+  },
+  {
+    "nom": "Al Marsa",
+    "longitude":-6.8397083,
+    "latitude": 34.0217255,
+    "adresse": "Avenue Bouregreg Marina de Bouregreg, Rabat ",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 5378-45818",
+    "horaires": "11:00  - 23:30 ",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/ac/fd/d5/caption.jpg?w=1000&h=-1&s=1"
+  },
+  {
+    "nom": "Pizza Ricca",
+    "longitude":-6.8267472,
+    "latitude": 33.9833206,
+    "adresse": "2, Place du Marche Central, Rabat ",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 5372-01000",
+    "horaires": "11:00  - 23:30 ",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/6a/8d/e3/pizza-ricca.jpg?w=800&h=-1&s=1"
+  },
+  {
+    "nom": "Little Mamma Agdal",
+    "longitude":-6.836118,
+    "latitude": 34.016208,
+    "adresse": "35 Avenue Fal Ould Oumeir, No.1 Agdal. Rabat",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 537770777",
+    "horaires": "12:00  - 00:00",
+    "image": "https://th.bing.com/th/id/OIP.IJKeaNjXu5pw0Rg-MBcQZQHaFj?rs=1&pid=ImgDetMain"
+  },
+  {
+    "nom": "L'Instant Ben",
+    "longitude":-6.836138,
+    "latitude": 34.016308,
+    "adresse": "35, Avenue Fal Ould Oumeir, Rabat ",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 53899-6666",
+    "horaires": "07:30  - 23:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/2b/55/75/vivez-consciemment-mangez.jpg?w=1000&h=-1&s=1"
+  },
+  {
+    "nom": "Bistrot Burger",
+    "longitude":-6.846518,
+    "latitude": 34.0059239,
+    "adresse": "Oqba Ibn Nafi, Rabat",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 5376-86263",
+    "horaires": "07:30  - 23:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/51/7e/22/photo0jpg.jpg?w=1000&h=-1&s=1"
+  },
+  {
+    "nom": "Dalla Zia",
+    "longitude":-6.8496372,
+    "latitude": 34.0222632,
+    "adresse": "Imm. 2, résidence El Mansour 2 Av. Mustapha Assayeh, Rabat",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 5376-90046",
+    "horaires": "13:00  - 00:30",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/31/22/54/front-view.jpg?w=900&h=-1&s=1"
+  },
+  {
+    "nom": "Eatalia",
+    "longitude":-6.8345686,
+    "latitude": 34.0199708,
+    "adresse": "6 Rue Ghandi, Rabat ",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 707-770700",
+    "horaires": "12:00  - 23:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/73/5f/dc/caption.jpg?w=900&h=500&s=1"
+  },
+  {
+    "nom": "Duchessa",
+    "longitude":-6.826132,
+    "latitude": 33.961007,
+    "adresse": " Centre commercial les ambassadeurs, Av. Mohamed 5, Rabat  ",
+    "categorie": "Italien",
+    "numero_de_telephone": "+212 5377-57517",
+    "horaires": "12:00  - 02:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/c4/8a/a3/une-nouvelle-adresse.jpg?w=900&h=500&s=1"
+  },
+  {
+    "nom": "Restaurant Sufra",
+    "longitude": -6.830184269057543,
+    "latitude": 34.020767982327015,
+    "adresse": "19 Av. Moulay Rachid, Rabat",
+    "categorie": "oriental",
+    "numero_de_telephone": "0659229160",
+    "horaires": "12:00–22:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/4a/15/b0/aubergine-fatteh.jpg?w=1100&h=600&s=1"
+  },
+  {
+    "nom": "Yamal Cham",
+    "longitude": -6.843239896827389,
+    "latitude": 34.020698636313305,
+    "adresse": "5 bis، 5 Av. Al Maghrib Al Arabi, Rabat 10060",
+    "categorie": "oriental",
+    "numero_de_telephone": "0537725725",
+    "horaires": "11:00–01:00",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNEq35gk-eSZFJBgcr8fQ5YTPn4fZthun5q-7ua=w427-h240-k-no"
+  },
+  {
+    "nom": "Saray Doner Kebab",
+    "longitude": -6.833682559790897,
+    "latitude": 34.01663950210367,
+    "adresse": "10, Place Des Alaouites, Centre Ville, 10000",
+    "categorie": "oriental",
+    "numero_de_telephone": "0530008181",
+    "horaires": "10:30–00:00",
+    "image": "https://img.restaurantguru.com/c87c-Restaurant-Saray-Doner-Kebab-food.jpg"
+  },
+  {
+    "nom": "Bab EL Hara",
+    "longitude": -6.877650618241238,
+    "latitude": 33.9968453679894,
+    "adresse": "Rabat",
+    "categorie": "oriental",
+    "numero_de_telephone": "0537230177",
+    "horaires": "10:00–01:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/61/62/fa/logo.jpg?w=1100&h=600&s=1"
+  },
+  {
+    "nom": "ELBayt El Dimashki",
+    "longitude": -6.8611036946143695,
+    "latitude": 33.957812932073104,
+    "adresse": "X44G+VRG, Rabat",
+    "categorie": "oriental",
+    "numero_de_telephone": "0678787632",
+    "horaires": "10:00–00:00",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipO5dFdqJ9jHTIMfVeQLjljGVz0fmy0p0ToTl0ES=w426-h240-k-no"
+  },
+  {
+    "nom": "Lyn Oriental Kitchen",
+    "longitude": -6.865739705310585,
+    "latitude": 33.96208434901936,
+    "adresse": "X46M+QPC, Mahaj Riad،, Rabat",
+    "categorie": "oriental",
+    "numero_de_telephone": "0625363636",
+    "horaires": "12:00–04:00",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipOfgEqbhRU1rsFVmHeQAMyFlOB_ReGo3ImE9dJw=w408-h544-k-no"
+  },
+  {
+    "nom": "Bayt Al Quds",
+    "longitude": -6.827166599746477,
+    "latitude": 34.03047191870195,
+    "adresse": "Marina, Salé",
+    "categorie": "oriental",
+    "numero_de_telephone": "0537782504",
+    "horaires": "10:00–00:00",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipO9xHFotxaoHCnuI5enXrJTfrmtcDHa3WjNLuyt=w408-h306-k-no"
+  },
+  {
+    "nom": "Addawk Ashami",
+    "longitude": -6.843741828825346,
+    "latitude": 34.015725009560484,
+    "adresse": "Centre commercial Les Orangers, 3 Av. Al Ghazali, Rabat 10000",
+    "categorie": "oriental",
+    "numero_de_telephone": "0537738665",
+    "horaires": "12:00–00:00",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipOGV_FTNqvDOiT_YLhfBoVOKB1R2_d5VdVD14Tm=w408-h306-k-no"
+  },
+  {
+    "nom": "Street Naan-Kebbab, Naan & Pita",
+    "longitude": -6.833877562564726,
+    "latitude": 34.01737298078657,
+    "adresse": "135 Av. Allal Ben Abdellah, Rabat 10000",
+    "categorie": "oriental",
+    "numero_de_telephone": "0661937773",
+    "horaires": "12:00–23:00",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNHDtaojdt5OhL7QafkE-GaisSAc5gKBhtCDkC2=w408-h306-k-no"
+  },
+  {
+    "nom": "Restaurant Abtal Alcham",
+    "longitude": -6.847715596064496,
+    "latitude": 34.002225897517434,
+    "adresse": "Av. Al Abtal, Rabat 10000",
+    "categorie": "oriental",
+    "numero_de_telephone": "0537771135",
+    "horaires": "11:30–00:30",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMheEl2WUoJ-WgPcF7CrzHv7JrWRvooQXd0SYSA=w408-h306-k-no"
+  },
+  {
+    "nom": "McDonald's Agdal",
+    "longitude": -6.847682792248751,
+    "latitude": 33.99560812120532,
+    "adresse": "Avenue Fal Ould Oumeir, Agdal, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 537670171",
+    "horaires": "09:30 - 02:00",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/New-McDonald-HU-lg_%2843261171540%29.jpg/1280px-New-McDonald-HU-lg_%2843261171540%29.jpg"
+  },
+  {
+    "nom": "McDonald's Hay Riad",
+    "longitude": -6.854666330991731,
+    "latitude": 33.953790687805075,
+    "adresse": "Avenue Annakhil, Hay Riad, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 537-770-002",
+    "horaires": "10:00 - 04:00",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/New-McDonald-HU-lg_%2843261171540%29.jpg/1280px-New-McDonald-HU-lg_%2843261171540%29.jpg"
+  },
+  {
+    "nom": "McDonald's Mahaj Riad",
+    "longitude": -6.854880849914726,
+    "latitude": 33.953470762924894,
+    "adresse": "Mahaj Riad, près du centre commercial Arribat Center, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 537710317",
+    "horaires": "07:00 - 23:00",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/New-McDonald-HU-lg_%2843261171540%29.jpg/1280px-New-McDonald-HU-lg_%2843261171540%29.jpg"
+  },
+  {
+    "nom": "Burger King - Arribat Center",
+    "longitude": -6.844820023252178,
+    "latitude": 34.004504022105436,
+    "adresse": "Arribat Center Agdal, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 537776251",
+    "horaires": "10:00 - 01:00",
+    "image": "https://arribat-center.ma/storage/2022/06/Pictures.-5.jpg"
+  },
+  {
+    "nom": "Burger King - Agdal Ryad",
+    "longitude": -6.853738060769227,
+    "latitude": 33.990257022238005,
+    "adresse": "Vis à Vis Laboratory Ibn Nafis, Av. Ibn Sina, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 537674601",
+    "horaires": "11:00 - 02:00",
+    "image": "https://imgs.search.brave.com/MU5NVuLDnn-WTLXJyBJFd7NsF2I3G4ZlKiOxgr4XVRY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3Av/QUYxUWlwT094Qk8w/ZHFtMmlBeEtrWmtm/X0tjUjdWbzk4U0NZ/d01GQmd2VTE9czE2/MDAtdzQwMA.jpeg"
+  },
+  {
+    "nom": "KFC",
+    "longitude": -6.847361217375109,
+    "latitude": 33.99501836625585,
+    "adresse": "Av. Fal Ould Oumeir, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 522555555",
+    "horaires": "11:00 - 00:00",
+    "image": "https://imgs.search.brave.com/d4pkNltZS4CqM8Nqdi5ARVAN9hVM_Rz3GvCdcgjT6lk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWF0Lm1hL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9tZW51LWtmYy1l/bC1qYWRpZGEtanVs/eS0yMDIzLTQyMTMx/OS03MDg0MDAtMzAw/eDMwMC5qcGc"
+  },
+  {
+    "nom": "KFC Arribat Center",
+    "longitude": -6.847316591325234,
+    "latitude": 34.009678381229605,
+    "adresse": "Arribat Center à Carrefour des Avenues Nations-Unies Al Abtal, Av. Inaouin, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 522393348",
+    "horaires": "11:00 - 00:00",
+    "image": "https://imgs.search.brave.com/d4pkNltZS4CqM8Nqdi5ARVAN9hVM_Rz3GvCdcgjT6lk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWF0Lm1hL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9tZW51LWtmYy1l/bC1qYWRpZGEtanVs/eS0yMDIzLTQyMTMx/OS03MDg0MDAtMzAw/eDMwMC5qcGc"
+  },
+  {
+    "nom": "Tacos de Lyon",
+    "longitude": -6.847102905733578,
+    "latitude": 33.99468411522137,
+    "adresse": "32 Av. Fal Ould Oumeir, Agdal, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 537673852",
+    "horaires": "09:00 - 00:00",
+    "image": "https://imgs.search.brave.com/Wz1kzPkMH00PfhZWLcUJm1w-AaaONcQmTkP4bqrORFc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QxL1RhY29zX2Rl/X0x5b24uanBn"
+  },
+  {
+    "nom": "Primos Chicken Agdal",
+    "longitude": -6.850441961554076,
+    "latitude": 33.999984119320274,
+    "adresse": "21 Pl. Abou Bakr Saddik, Agdal, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 808508309",
+    "horaires": "10:00 - 00:00",
+    "image": "https://imgs.search.brave.com/SYdbsA-Fyd51RZ025dgc1gLrXVMbxL6VA58o_EQF34I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ncmFw/aC5mYWNlYm9vay5j/b20vNDc0MDc0MTY1/OTc2MTI2L3BpY3R1/cmU_dHlwZT1sYXJn/ZQ"
+  },
+  {
+    "nom": "Pizza Hut",
+    "longitude": -6.844756656728673,
+    "latitude": 34.00003059308799,
+    "adresse": "Av. de France, Agdal, Rabat",
+    "categorie": "Fast Food",
+    "numero_de_telephone": "+212 537775555",
+    "horaires": "11:00 - 23:00",
+    "image": "https://imgs.search.brave.com/ojYgTM-KnQuXsIN-FFmwfHD1salrO2cFyHZAwlYCScM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4LzQzLzEwLzk0/LzM2MF9GXzg0MzEw/OTQ0MV9Lb3lsTnBY/ZW01RlBacDJweGRI/NTIxam14V3kwM0JL/OS5qcGc"
+  },
+  {
+    "nom": "Tacos Avenue",
+    "longitude": -6.846857088537984,
+    "latitude": 34.02198021933188,
+    "adresse": "42 Avenue Al Moukaouama, Rabat",
+    "categorie": "Tacos",
+    "numero_de_telephone": "+212 537202022",
+    "horaires": "11:00 - 00:00",
+    "image": "https://imgs.search.brave.com/Lku-OVRnLsIpwbviPKNxse914HYXDdytTO3M7dBE3nE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWF0Lm1hL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9tZW51LWtmdC1l/bC1qYWRpZGEtanVs/eS0yMDIzLTQyMTMx/OS03MDg0MDAtMzAw/eDMwMC5qcGc"
+  },
+  {
+    "nom": "Naga Thaï Cuisine",
+    "longitude": -6.872785396937364,
+    "latitude": 33.95940495614744,
+    "adresse": "Avenue Annakhil, Hay Riad - Ilot 10, Immeuble E Porte 2",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "+212 660-371241",
+    "horaires": "12:00 - 03:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/3b/dc/7a/cosy-and-warm.jpg?w=500&h=300&s=1 "
+  },
+  {
+    "nom": "Oteppane",
+    "longitude": -6.848621391689239,
+    "latitude":33.9557186267116,
+    "adresse": "59 Rue Jabal Oukaïmeden Oteppan",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "+212 5376-80229",
+    "horaires": "11:00 - 01:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/94/7c/2d/salle.jpg?w=1000&h=-1&s=1 "
+  },
+  {
+    "nom": "Yoka Sushi",
+    "longitude": -6.849733177534406,
+    "latitude": 34.002338444241,
+    "adresse": "Avenue Al Abtal ,Agdal, ",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "+212 5376-86859",
+    "horaires": "12:00 - 00:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fc/e3/f7/img-20160916-wa0001-largejpg.jpg?w=600&h=600&s=1"
+  },
+
+  {
+    "nom": "Sushi box",
+    "longitude":-6.82291108864666,
+    "latitude": 34.03282284789553,
+    "adresse": "36 Angle Av Atlas Et Rue Alkhataouat Agdal",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "+212 660777001",
+    "horaires": "12:00 - 00:00",
+    "image": "https://arribat-center.ma/storage/2022/06/file-35.jpg"
+  },
+  {
+    "nom": "17. 99 Sushi Bar & Restaurant Rabat",
+    "longitude": -6.999836638672973,
+    "latitude": 33.901326814338056,
+    "adresse": "Plage Petit Val D'or, Rabat 12040",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "0537488640",
+    "horaires": "12:00 - 03:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5c/1e/d4/99-sushi-bar-and-restaurant.jpg?w=700&h=400&s=1 "
+  },
+  {
+    "nom": "Yoka Sushi Hay Riad",
+    "longitude": -6.8729299307936405,
+    "latitude": 33.957352105739844,
+    "adresse": "Rue Al Maouz, Av. Annakhil, Rabat 10100",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "0537572154",
+    "horaires": "12:00 - 23:00",
+    "image": " "
+  },
+  {
+    "nom": "Shoko Lounge",
+    "longitude":-6.841814294562132,
+    "latitude": 33.9560344767687,
+    "adresse": "AVENUE OUELD FARES ",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "0766666687",
+    "horaires": "12:00 - 03:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ca/d3/68/shoko-lounge-rabat.jpg?w=1000&h=-1&s=1 "
+  },
+  {
+    "nom": "La Rambla",
+    "longitude": -6.826788560367216,
+    "latitude": 33.99065869995869,
+    "adresse": "Av. Mohammed VI, Rabat 10010",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "0537652833",
+    "horaires": "12:00 - 03:00",
+    "image": " https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/37/e7/ef/un-decor-chic-et-chaleureux.jpg?w=900&h=500&s=1"
+  },
+  {
+    "nom": "Mitsuki Arribat Center",
+    "longitude": -6.843312469965089,
+    "latitude": 34.0035455431538,
+    "adresse": "44 Avenue Omar Ibn Al Khattab Arribat Center",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "+212 660-789241",
+    "horaires": "12:00 - 00:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/80/59/bc/plat-sefoud-mitsuki.jpg?w=600&h=400&s=1 "
+  },
+  {
+    "nom": "Panda",
+    "longitude":-6.867867784859189,
+    "latitude": 333.977441567780495,
+    "adresse": "Magasin 1, Riad, 3 Av. Annakhil, Rabat 10000",
+    "categorie": "Asiatique",
+    "numero_de_telephone": "0537565520",
+    "horaires": "12:00 - 02:00",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/2a/1b/38/panda.jpg?w=900&h=500&s=1"
+  }
+
+]
