@@ -15,6 +15,7 @@ public class Hotel {
         private String adresse;
         private String image ;
         private String url ;
+        private double etoiles;
 
     public String getUrl() {
         return url;
@@ -80,6 +81,15 @@ public class Hotel {
     public void setAdresse(String adresse) {
         this.adresse = adresse;
     }
+
+    public Double getEtoiles() {
+        return etoiles;
+    }
+
+    public void setEtoiles(double etoiles) {
+        this.etoiles = etoiles;
+    }
+
 
 
 }

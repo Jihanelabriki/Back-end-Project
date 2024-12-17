@@ -248,7 +248,7 @@
     "adresse": "72 Rue Oued Sebou, Rabat 10106",
     "image": "https://images.trvl-media.com/lodging/108000000/107160000/107154300/107154243/7b715e51.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
     "url": "https://www.executiveboutiquehotels.com/",
-    "etoiles":"4 étoiles"
+    "etoiles": 4
   },
   {
     "name": "Story Rabat Boutique Hôtel & Spa",
@@ -258,7 +258,7 @@
     "adresse": "Rue Bani Yadder, Rabat",
     "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/38465476.jpg?k=e32d37a24be675502e0fe30798b2d73b2ed1e40c5cb9d3d4708f195e40fc73bc&o=&hp=1",
     "url":"https://www.story-rabat.com/fr/",
-    "etoiles":"4 étoiles"
+    "etoiles":4
   },
   {
     "name": "StayHere Agdal 3",
@@ -268,7 +268,7 @@
     "adresse": "3 Rue Oued Fès, Rabat",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhex0vtMUfVPsps-d4bA9vC1N65FEjBym4w&s",
     "url":"https://stayhere.ma/area/agdal/",
-    "etoiles":3
+    "etoiles": 3
   },
   {
     "name": "Hôtel Lutece",
