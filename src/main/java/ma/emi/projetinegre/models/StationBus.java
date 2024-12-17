@@ -3,15 +3,15 @@ package ma.emi.projetinegre.models;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "stationBus")
+@Document(collection = "stationsBus")
 public class StationBus {
 
     @Id
     private String id;
     private String name;
     private String[] lines;
-    private double lat;
-    private double lng;
+    private String lat;
+    private String lng;
 
     // Getters and setters
     public String getId() {
@@ -30,19 +30,19 @@ public class StationBus {
         this.name = name;
     }
 
-    public double getLat() {
+    public String getLat() {
         return lat;
     }
 
-    public void setLat(double lat) {
+    public void setLat(String lat) {
         this.lat = lat;
     }
 
-    public double getLng() {
+    public String getLng() {
         return lng;
     }
 
-    public void setLng(double lng) {
+    public void setLng(String lng) {
         this.lng = lng;
     }
     public String[] getLines() {
