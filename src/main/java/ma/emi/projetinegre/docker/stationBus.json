@@ -1,0 +1,788 @@
+[
+  {
+    "name": "HAY FATH",
+    "lines": ["L106", "L101","L107","L104"],
+    "lat": "33.965424",
+    "lng": "-6.905842"
+  },
+  {
+    "name": "ECOLE ESSANABIL -V",
+    "lines": ["L106", "L101","L107","L104"],
+    "lat": "33.965312",
+    "lng": "-6.903763"
+  },
+  {
+    "name": "MOSQUE ARRIDOUAN",
+    "lines": ["L106", "L101","L107","L104"],
+    "lat": "33.967260",
+    "lng": "-6.901228"
+  },
+  {
+    "name": "CAMPO HAY FATH MASSIRA -V",
+    "lines": ["L106","L104"],
+    "lat": "33.969587",
+    "lng": "-6.898335"
+  },
+  {
+    "name": "RESIDENCE FAR-V",
+    "lines": ["L106","L104"],
+    "lat": "33.970784",
+    "lng": "-6.894515"
+  },
+  {
+    "name": "AV EL MASSIRA -V",
+    "lines": ["L106","L104"],
+    "lat": "33.972460",
+    "lng": "-6.892483"
+  },
+  {
+    "name": "LY.BIR ANZARANE-V",
+    "lines": ["L106", "L104"],
+    "lat": "33.9737805",
+    "lng": "-6.8912645"
+  },
+  {
+    "name": "MANAL MASSIRA -V",
+    "lines": ["L106","L104"],
+    "lat": "33.976683",
+    "lng": "-6.887618"
+  },
+  {
+    "name": "AMMAL QUATRE",
+    "lines": ["L106"],
+    "lat": "33.957117388005",
+    "lng": "-6.87317728385"
+  },
+  {
+    "name": "G CINQ",
+    "lines": ["L106"],
+    "lat": "34.018144516283",
+    "lng": "-6.846392576977"
+  },
+  {
+    "name": "MARCHE BOUITAT",
+    "lines": ["L106"],
+    "lat": "34.0229522",
+    "lng": "-6.8396339"
+  },
+
+  {
+    "name": "MOHAMED MSARNI",
+    "lines": ["L106","L104"],
+    "lat": "33.991225",
+    "lng": "-6.872702"
+  },
+  {
+    "name": "GARE ROUTIERE",
+    "lines": ["L106","L104"],
+    "lat": "33.991268",
+    "lng": "-6.868203"
+  },
+  {
+    "name": "LY.ABDELKRIM ALKHATV",
+    "lines": ["L106"],
+    "lat": "34.0219907",
+    "lng": "-6.837616"
+  },
+  {
+    "name": "CENTRE D TRANSFUSION SANGUIN 5",
+    "lines": ["L106"],
+    "lat": "33.9991843",
+    "lng": "-6.8638332"
+  },
+  {
+    "name": "GARE RABAT AGDAL",
+    "lines": ["L106"],
+    "lat": "33.98254",
+    "lng": "-6.85663"
+  },
+  {
+    "name": "AAKARI",
+    "lines": ["L106","L101"],
+    "lat": "34.0214927",
+    "lng": "-6.8594938"
+  },
+  {
+    "name": "CHOUKHMANE",
+    "lines": ["L106"],
+    "lat": "34.0219907",
+    "lng": "-6.837616"
+  },
+  {
+    "name": "JARDIN D ESSAIE",
+    "lines": ["L106"],
+    "lat": "33.990263",
+    "lng": "-6.8193853"
+  },
+  {
+    "name": "AV VICTOIRE1",
+    "lines": ["L106"],
+    "lat": "34.0219907",
+    "lng": "-6.837616"
+  },
+  {
+    "name": "MOULAY EL HASSAN",
+    "lines": ["L106", "L108"],
+    "lat": "34.0163308",
+    "lng": "-6.8312751"
+  },
+  {
+    "name": "PLACE D'UNION D'AFRIQUE 1",
+    "lines": ["L106", "L108"],
+    "lat": "34.0219907",
+    "lng": "-6.837616"
+  },
+  {
+    "name": "TOUR HASSAN",
+    "lines": ["L106", "L108"],
+    "lat": "34.0240834",
+    "lng": "-6.8228092"
+  },
+  {
+    "name": "ABDELMOUMEN",
+    "lines": ["L106", "L108"],
+    "lat": "34.023680380432",
+    "lng": "-6.82829479062"
+  },
+  {
+    "name": "HAY ENNAHDA",
+    "lines": ["L101"],
+    "lat": "34.0222107",
+    "lng": "-6.8425174"
+  },
+  {
+    "name": "ISTA HAY ENAHDA",
+    "lines": ["L101"],
+    "lat": "34.0162082",
+    "lng": "-6.8371299"
+  },
+  {
+    "name": "ENNAHDA",
+    "lines": ["L101"],
+    "lat": "34.0222107",
+    "lng": "-6.8425174"
+  },
+  {
+    "name": "HAY EL IDARI",
+    "lines": ["L101"],
+    "lat": "34.0105955",
+    "lng": "-6.8312728"
+  },
+  {
+    "name": "ERROUDANI",
+    "lines": ["L101"],
+    "lat": "33.98081057248938",
+    "lng": "-6.811787237716392"
+  },
+  {
+    "name": "HAY INDUSTRIELLE",
+    "lines": ["L101"],
+    "lat": "33.9867976",
+    "lng": "-6.8035581"
+  },
+  {
+    "name": "CHAREKAT",
+    "lines": ["L101"],
+    "lat": "33.9896611",
+    "lng": "-6.8036927"
+  },
+  {
+    "name": "ZONE INDUSTRIELLE",
+    "lines": ["L101"],
+    "lat": "34.0157032",
+    "lng": "-6.8329875"
+  },
+  {
+    "name": "JBEL RAYSI",
+    "lines": ["L101", "L9"],
+    "lat": "33.9911327",
+    "lng": "-6.8125318"
+  },
+  {
+    "name": "JARDIN MINI PARC",
+    "lines": ["L9", "L101"],
+    "lat": "33.9924455",
+    "lng": "-6.8183471"
+  },
+  {
+    "name": "MABELA",
+    "lines": ["L101", "L8"],
+    "lat": "33.9951136",
+    "lng": "-6.8197507"
+  },
+  {
+    "name": "ECOLE 11 JANVIER",
+    "lines": ["L8", "L101"],
+    "lat": "33.9943688",
+    "lng": "-6.823812"
+  },
+  {
+    "name": "GHOSN ZAYTOUN",
+    "lines": ["L8"],
+    "lat": "33.9948571003784",
+    "lng": "-6.826534844447357"
+  },
+  {
+    "name": "MAMDA",
+    "lines": ["L8"],
+    "lat": "33.99799587478267",
+    "lng": "-6.827058026731195"
+  },
+  {
+    "name": "SIDI KHLIFA",
+    "lines": ["L8"],
+    "lat": "34.00384553718124",
+    "lng": "-6.8266872570045924"
+  },
+  {
+    "name": "BAB TOUARGA",
+    "lines": ["L8"],
+    "lat": "34.008182117141544",
+    "lng": "-6.8282805053079"
+  },
+  {
+    "name": "MOSQUEE ASSOUNA",
+    "lines": [],
+    "lat": "34.012376752833454",
+    "lng": "-6.831446236515045"
+  },
+  {
+    "name": "MOULAY EL HASSAN",
+    "lines": ["L106"],
+    "lat": "34.0163308",
+    "lng": "-6.8312751"
+  },
+  {
+    "name": "PLACE D'UNION D'AFRIQUE 1",
+    "lines": ["L106"],
+    "lat": "34.0219907",
+    "lng": "-6.837616"
+  },
+  {
+    "name": "TOUR HASSAN",
+    "lines": ["L106"],
+    "lat": "34.0240834",
+    "lng": "-6.8228092"
+  },
+  {
+    "name": "ABDELMOUMEN",
+    "lines": ["L106", "L22", "L5", "L10", "L25", "L23", "L26", "L2", "L24", "L4", "L1", "L21", "L3"],
+    "lat": "34.023680380432",
+    "lng": "-6.82829479062"
+  },
+  {
+    "name": "HAY ENNAHDA",
+    "lines": ["L101", "L108"],
+    "lat": "34.0222107",
+    "lng": "-6.8425174"
+  },
+  {
+    "name": "ISTA HAY ENNAHDA",
+    "lines": ["L101", "L102", "L108"],
+    "lat": "34.0162082",
+    "lng": "-6.8371299"
+  },
+  {
+    "name": "ENNAHDA",
+    "lines": ["L101", "L102", "L108"],
+    "lat": "34.0222107",
+    "lng": "-6.8425174"
+  },
+  {
+    "name": "HAY EL IDARI",
+    "lines": ["L101", "L102", "L108"],
+    "lat": "34.0105955",
+    "lng": "-6.8312728"
+  },
+  {
+    "name": "ERROUDANI",
+    "lines": ["L101", "L102", "L108"],
+    "lat": "33.98021741686087",
+    "lng": "-6.811641388539912"
+  },
+  {
+    "name": "HAY INDUSTRIELLE",
+    "lines": ["L101", "L102", "L108"],
+    "lat": "33.9867976",
+    "lng": "-6.8035581"
+  },
+  {
+    "name": "CHAREKAT",
+    "lines": ["L101", "L108"],
+    "lat": "33.9896611",
+    "lng": "-6.8036927"
+  },
+  {
+    "name": "ZONE INDUSTRIELLE",
+    "lines": ["L101", "L108"],
+    "lat": "34.0157032",
+    "lng": "-6.8329875"
+  },
+  {
+    "name": "JBEL RAYSI",
+    "lines": ["L101", "L108"],
+    "lat": "33.9911327",
+    "lng": "-6.8125318"
+  },
+  {
+    "name": "JARDIN MINI PARC",
+    "lines": ["L101", "L108"],
+    "lat": "33.9924455",
+    "lng": "-6.8183471"
+  },
+  {
+    "name": "MABELA",
+    "lines": ["L101", "L108"],
+    "lat": "33.9951136",
+    "lng": "-6.8197507"
+  },
+  {
+    "name": "ECOLE 11 JANVIER",
+    "lines": ["L101", "L108"],
+    "lat": "33.9943688",
+    "lng": "-6.823812"
+  },
+  {
+    "name": "HILTON",
+    "lines": ["L101"],
+    "lat": "34.009968",
+    "lng": "-6.8324314"
+  },
+  {
+    "name": "MOULAY ABDELLAH",
+    "lines": ["L101"],
+    "lat": "34.0208829",
+    "lng": "-6.8459435"
+  },
+  {
+    "name": "CITE UNIV D'AGDAL",
+    "lines": ["L101"],
+    "lat": "34.0053582",
+    "lng": "-6.846897"
+  },
+  {
+    "name": "ATLAS",
+    "lines": ["L101"],
+    "lat": "34.0048918",
+    "lng": "-6.8363522"
+  },
+  {
+    "name": "JBEL TAZEKKA",
+    "lines": ["L101"],
+    "lat": "33.9954524",
+    "lng": "-6.8502589"
+  },
+  {
+    "name": "Mosquee BADR 1",
+    "lines": ["L101"],
+    "lat": "34.00000531344844",
+    "lng": "-6.851351034388606"
+  },
+  {
+    "name": "Rue Dayt Aoua",
+    "lines": ["L101"],
+    "lat": "34.00464105580189",
+    "lng": "-6.851992503882132"
+  },
+  {
+    "name": "AAKARI",
+    "lines": ["L101", "L106"],
+    "lat": "34.0214927",
+    "lng": "-6.8594938"
+  },
+  {
+    "name": "PAX",
+    "lines": ["L101"],
+    "lat": "34.0042322",
+    "lng": "-6.8583155"
+  },
+  {
+    "name": "ECOLE SALMA",
+    "lines": ["L101", "L107"],
+    "lat": "34.00378215760116",
+    "lng": "-6.865839303882258"
+  },
+  {
+    "name": "DOUAR RJA FLLAH",
+    "lines": ["L101", "L107"],
+    "lat": "34.00189751173513",
+    "lng": "-6.867367219225771"
+  },
+  {
+    "name": "AV.ASSALAM",
+    "lines": ["L101", "L107"],
+    "lat": "33.99801481103532",
+    "lng": "-6.870160190389999"
+  },
+  {
+    "name": "RUE AL HANAE -V",
+    "lines": ["L101", "L107"],
+    "lat": "33.98938650480745",
+    "lng": "-6.871360549913026"
+  },
+  {
+    "name": "DOUAR BOUHALA",
+    "lines": ["L101"],
+    "lat": "34.0052217",
+    "lng": "-6.8629751"
+  },
+  {
+    "name": "AL HOURIA",
+    "lines": ["L101"],
+    "lat": "34.0105955",
+    "lng": "-6.8312728"
+  },
+  {
+    "name": "ASSALAM",
+    "lines": ["L101"],
+    "lat": "34.0214927",
+    "lng": "-6.8594938"
+  },
+  {
+    "name": "REGRAGUI",
+    "lines": ["L101", "L107"],
+    "lat": "33.9865956",
+    "lng": "-6.8735956"
+  },
+  {
+    "name": "HAY BOUITAT",
+    "lines": ["L31", "L107", "L101", "L104"],
+    "lat": "33.981882",
+    "lng": "-6.877320"
+  },
+  {
+    "name": "HASSAN MARRAKCHI",
+    "lines": ["L101", "L31", "L107", "L104"],
+    "lat": "33.978773",
+    "lng": "-6.879881"
+  },
+  {
+    "name": "OFPPT AL MAJD-V",
+    "lines": ["L101", "L107", "L104"],
+    "lat": "33.976694",
+    "lng": "-6.882007"
+  },
+  {
+    "name": "MAISON DE JEUNESSE",
+    "lines": ["L101"],
+    "lat": "33.97628290363083",
+    "lng": "-6.885835148062698"
+  },
+  {
+    "name": "MANAL",
+    "lines": ["L101"],
+    "lat": "33.97741715159238",
+    "lng": "-6.890384372903885"
+  },
+  {
+    "name": "RUE AL HAZAR",
+    "lines": ["L101"],
+    "lat": "33.97591120741304",
+    "lng": "-6.892098978749518"
+  },
+  {
+    "name": "AVENUE EL MENZEH",
+    "lines": ["L101"],
+    "lat": "33.97457939647389",
+    "lng": "-6.893660024532488"
+  },
+  {
+    "name": "EL MENZEH",
+    "lines": ["L101"],
+    "lat": "33.97252954965544",
+    "lng": "-6.896061860883669"
+  },
+  {
+    "name": "Campo Hay Fath-v",
+    "lines": ["L101"],
+    "lat": "33.970087732950006",
+    "lng": "-6.898922803246203"
+  },
+  {
+    "name": "MOSQUEE ARRIDOUAN",
+    "lines": ["L104", "L107", "L101", "L106"],
+    "lat": "33.967260",
+    "lng": "-6.901228"
+  },
+  {
+    "name": "ECOLE ESSANABIL",
+    "lines": ["L107", "L106", "L101", "L104"],
+    "lat": "33.965312",
+    "lng": "-6.903763"
+  },
+  {
+    "name": "HAY FATH TERMINUS",
+    "lines": ["L101", "L107", "L106", "L104"],
+    "lat": "33.965424",
+    "lng": "-6.905842"
+  },{
+  "name": "AMAL SIX",
+  "lines": ["L107","L101"],
+  "lat": "33.96872029210782",
+  "lng": "-6.897786929022453"
+},
+  {
+    "name": "HAY FATH",
+    "lines": ["L101", "L107", "L106"],
+    "lat": "33.965424",
+    "lng": "-6.905842"
+  },
+  {
+    "name": "Ecole Essanabil-V",
+    "lines": ["L107", "L106", "L101"],
+    "lat": "33.965312",
+    "lng": "-6.903763"
+  },
+  {
+    "name": "MOSQUE ARRIDOUAN",
+    "lines": ["L107", "L101", "L106"],
+    "lat": "33.967260",
+    "lng": "-6.901228"
+  },
+  {
+    "name": "CAMPO HAY FATH MASSIRA-V",
+    "lines": ["L106"],
+    "lat": "33.969587",
+    "lng": "-6.898335"
+  },
+  {
+    "name": "Residence FAR-V",
+    "lines": ["L106"],
+    "lat": "33.970784",
+    "lng": "-6.894515"
+  },
+  {
+    "name": "Av el massira-V",
+    "lines": ["L106"],
+    "lat": "33.972460",
+    "lng": "-6.892483"
+  },
+  {
+    "name": "MANAL MASSIRA-V",
+    "lines": ["L106"],
+    "lat": "33.976683",
+    "lng": "-6.887618"
+  },
+  {
+    "name": "OFPPT AL MAJD-V",
+    "lines": ["L101", "L107"],
+    "lat": "33.976694",
+    "lng": "-6.882007"
+  },
+  {
+    "name": "HASSAN MARRAKCHI",
+    "lines": ["L101", "L31", "L107"],
+    "lat": "33.978773",
+    "lng": "-6.879881"
+  },
+  {
+    "name": "HAY BOUITAT",
+    "lines": ["L31", "L107", "L101"],
+    "lat": "33.981882",
+    "lng": "-6.877320"
+  },
+  {
+    "name": "LAKOUASS-V",
+    "lines": ["L31"],
+    "lat": "33.985072",
+    "lng": "-6.876943"
+  },
+  {
+    "name": "MOHAMED MSARNI",
+    "lines": ["L36", "L106", "L31"],
+    "lat": "33.991225",
+    "lng": "-6.872702"
+  },
+  {
+    "name": "GARE ROUTIERE",
+    "lines": ["L106", "L9", "L36"],
+    "lat": "33.991268",
+    "lng": "-6.868203"
+  },
+  {
+    "name": "CLINIQUE IBN SINA",
+    "lines": ["L6", "L39", "L9"],
+    "lat": "33.985004",
+    "lng": "-6.854019"
+  },
+  {
+    "name": "CHU SOUISSI",
+    "lines": ["L9"],
+    "lat": "33.985262",
+    "lng": "-6.849942"
+  },
+  {
+    "name": "FORET HILTON-V",
+    "lines": ["L9"],
+    "lat": "33.982798",
+    "lng": "-6.846271"
+  },
+  {
+    "name": "AVENUE AHMED BELAFREJ-V",
+    "lines": [],
+    "lat": "33.980577",
+    "lng": "-6.842006"
+  },
+  {
+    "name": "ECOLE AL MINBAT",
+    "lines": ["L37B", "L37", "L9"],
+    "lat": "33.977263",
+    "lng": "-6.838163"
+  },
+  {
+    "name": "AMBASSADE IRAK",
+    "lines": ["L37", "L37B", "L9"],
+    "lat": "33.979369",
+    "lng": "-6.835240"
+  },
+  {
+    "name": "AMBASSADE LIBIA",
+    "lines": ["L37B", "L9", "L37"],
+    "lat": "33.982280",
+    "lng": "-6.830478"
+  },
+  {
+    "name": "AV.AL HAOUZ-V",
+    "lines": ["L8", "L9", "L37", "L37B"],
+    "lat": "33.984135",
+    "lng": "-6.825359"
+  },
+  {
+    "name": "TAQADOM",
+    "lines": ["L37B", "L37", "L9", "L8"],
+    "lat": "33.986930",
+    "lng": "-6.820395"
+  },
+  {
+    "name": "RTE SETTA-V",
+    "lines": ["L8", "L37", "L9", "L37B"],
+    "lat": "33.989201",
+    "lng": "-6.817740"
+  },
+  {
+    "name": "MINI PARC-V",
+    "lines": ["L8", "L37B", "L37"],
+    "lat": "33.999159",
+    "lng": "-6.819335"
+  },
+  {
+    "name": "AV HASSAN II BAB EL HED",
+    "lines": ["L107"],
+    "lat": "34.01806379863216",
+    "lng": "-6.8447353349563445"
+  },
+  {
+    "name": "MOSQUEE HASAN II",
+    "lines": ["L107"],
+    "lat": "33.99575945842337",
+    "lng": "-6.817229711670103,"
+  },
+  {
+    "name": "BAB TAMESNA 1 ",
+    "lines": ["L107"],
+    "lat": "34.01131532023446",
+    "lng": " -6.85218345660007"
+  },
+  {
+    "name": "AKKARI 1-V ",
+    "lines": ["L107"],
+    "lat": "34.00934419044228",
+    "lng": " -6.855401719614127"
+  },
+  {
+    "name": "HOPITAL MOULAY YOUSSEF AKKARIV",
+    "lines": ["L107"],
+    "lat": "34.01010188358434",
+    "lng": "-6.859992599060736"
+  },
+  {
+    "name": "DAR ATTALIBA-V ",
+    "lines": ["L107"],
+    "lat": "34.006829657726875",
+    "lng": " -6.862732670094518"
+  },
+  {
+    "name": "ECOLE SALMA ",
+    "lines": ["L107","L101"],
+    "lat": "34.00378215760116",
+    "lng": "-6.865839303882258"
+  },
+  {
+    "name": "Douar rja fllah",
+    "lines": ["L107","L101"],
+    "lat": "34.00189751173513",
+    "lng": "-6.867367219225771"
+  },
+  {
+    "name": "AV.ASSALAM",
+    "lines": ["L101", "L107"],
+    "lat": "33.99801481103532",
+    "lng": "-6.870160190389999"
+  },
+  {
+    "name": "RUE AL HANAE -V",
+    "lines": ["L107","L101"],
+    "lat": "33.98938650480745",
+    "lng": "-6.871360549913026"
+  },
+  {
+    "name": "REGRAGUI",
+    "lines": ["L107","L101"],
+    "lat": "33.9865956",
+    "lng":  "-6.8735956"
+  },
+  {
+    "name": "Hay Bouitat",
+    "lines": ["L107","L101"],
+    "lat": "-6.877320"
+  },
+  {
+    "name": "HASSAN MARRAKCHI",
+    "lines": ["L107","L101"],
+    "lat":"33.978773",
+    "lng":  "-6.879881"
+  }, {
+  "name": "OFPPT AL MAJD-V",
+  "lines": ["L107","L101","L104"],
+  "lat": "33.976694",
+  "lng": "-6.882007"
+}, {
+  "name": "KARAKCHEWAT",
+  "lines": ["L107"],
+  "lat": "33.97270456615887",
+  "lng": " -6.884753356612134"
+}, {
+  "name": "Al Majd Massira",
+  "lines": ["L107"],
+  "lat": "33.96824406905908",
+  "lng": "-6.890167127778005"
+}, {
+  "name": "MASSIRA",
+  "lines": ["L107"],
+  "lat": "33.969792295108924",
+  "lng": "  -6.887184511470396"
+}, {
+  "name": "AMAL SIX",
+  "lines": ["L107","L101"],
+  "lat": "33.96872029210782",
+  "lng": "-6.897786929022453"
+},
+  {
+    "name": "MOSQUE ARRIDOUAN",
+    "lines": ["L107","L104","L106","L101"],
+    "lat": "33.967260",
+    "lng": "-6.901228"
+  },
+  {
+    "name": "Ecole Essanabil",
+    "lines": ["L107","L106","L104","L101"],
+    "lat": "33.965312",
+    "lng": "-6.903763"
+  },
+  {
+    "name": "Hay Fath",
+    "lines": ["L107","L106","L104","L101"],
+    "lat": "33.965424",
+    "lng": "-6.905842"
+  }
+]
