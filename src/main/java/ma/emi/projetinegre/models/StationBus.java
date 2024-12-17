@@ -3,7 +3,7 @@ package ma.emi.projetinegre.models;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "stationsBus")
+@Document(collection = "stationBus")
 public class StationBus {
 
     @Id
