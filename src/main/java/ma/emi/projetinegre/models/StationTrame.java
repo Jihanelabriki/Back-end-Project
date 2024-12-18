@@ -12,6 +12,15 @@ import org.springframework.data.mongodb.core.mapping.Document;
         private String name;
         private double lat;
         private double lng;
+        private String[] lines;
+
+        public void setLines(String[] lines) {
+            this.lines = lines;
+        }
+
+        public String[] getLines() {
+            return lines;
+        }
 
         // Getters and setters
         public String getId() {

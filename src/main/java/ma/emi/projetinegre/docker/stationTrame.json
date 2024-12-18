@@ -3,258 +3,225 @@
     "id": "1",
     "lat": "34.034699",
     "lng": "-6.799736",
-    "name": "Station Hassan II"
+    "name": "Station Hassan II",
+    "lines":["L2"]
   },
   {
     "id": "2",
     "lat": "34.034984",
     "lng": "-6.806581",
-    "name": "Station Bettana"
+    "name": "Station Bettana",
+    "lines":["L2"]
   },
   {
     "id": "3",
     "lat": "34.035626",
     "lng": "-6.813696",
-    "name": "Station Arrazi"
+    "name": "Station Arrazi",
+    "lines":["L2"]
   },
   {
     "id": "4",
     "lat": "34.032732",
     "lng": "-6.819313",
-    "name": "Station Bab Lamrissa"
+    "name": "Station Bab Lamrissa",
+    "lines":["L2","L1"]
   },
   {
     "id": "5",
     "lat": "34.025557",
     "lng": "-6.822695",
-    "name": "Station Pont Hassan II"
+    "name": "Station Pont Hassan II",
+    "lines":["L2","L1"]
   },
   {
     "id": "6",
     "lat": "34.024670",
     "lng": "-6.825254",
-    "name": "Station Place du 16 Novembre"
+    "name": "Station Place du 16 Novembre",
+    "lines":["L2","L1"]
   },
   {
     "id": "7",
     "lat": "34.019348",
     "lng": "-6.826649",
-    "name": "Station Tour Hassan"
+    "name": "Station Tour Hassan",
+    "lines":["L2","L1"]
   },
   {
     "id": "8",
     "lat": "34.019430",
     "lng": "-6.831670",
-    "name": "Station Place Al Joulane - L2"
+    "name": "Station Place Al Joulane - L2",
+    "lines":["L2"]
   },
   {
     "id": "9",
     "lat": "34.023754",
     "lng": "-6.833995",
-    "name": "Station Bab Chellah"
+    "name": "Station Bab Chellah",
+    "lines":["L2"]
   },
   {
     "id": "10",
     "lat": "34.021866",
     "lng": "-6.838931",
-    "name": "Station Médina Rabat"
+    "name": "Station Médina Rabat",
+    "lines":["L2"]
   },
   {
     "id": "11",
     "lat": "34.020686",
     "lng": "-6.843061",
-    "name": "Station Bab El Had"
+    "name": "Station Bab El Had",
+    "lines":["L2"]
   },
   {
     "id": "12",
     "lat": "34.018679",
     "lng": "-6.850322",
-    "name": "Station Place de Russie"
+    "name": "Station Place de Russie",
+    "lines":["L2"]
   },
   {
     "id": "13",
     "lat": "34.016213",
     "lng": "-6.854699",
-    "name": "Station Sidi Mohammed Ben Abdellah"
+    "name": "Station Sidi Mohammed Ben Abdellah",
+    "lines":["L2"]
   },
   {
     "id": "14",
     "lat": "34.010904",
     "lng": "-6.859130",
-    "name": "Station Hôpital Moulay Youssef"
+    "name": "Station Hôpital Moulay Youssef",
+    "lines":["L2"]
   },
   {
     "id": "15",
     "lat": "34.054335",
     "lng": "-6.794315",
-    "name": "Station Hay Karima"
+    "name": "Station Hay Karima",
+    "lines":["L1"]
   },
   {
     "id": "16",
     "lat": "34.047317",
     "lng": "-6.801331",
-    "name": "Station Tabriquet"
+    "name": "Station Tabriquet",
+    "lines":["L1"]
   },
   {
     "id": "17",
     "lat": "34.045448",
     "lng": "-6.807034",
-    "name": "Station La Poste"
+    "name": "Station La Poste",
+    "lines":["L1"]
   },
   {
     "id": "18",
     "lat": "34.043372",
     "lng": "-6.811049",
-    "name": "Station Mohammed V - Opéra"
+    "name": "Station Mohammed V - Opéra",
+    "lines":["L1"]
   },
   {
     "id": "19",
     "lat": "34.041221",
     "lng": "-6.815030",
-    "name": "Station Diar"
+    "name": "Station Diar",
+    "lines":["L1"]
   },
   {
     "id": "20",
     "lat": "34.037907",
     "lng": "-6.816358",
-    "name": "Station Gare de Salé"
+    "name": "Station Gare de Salé",
+    "lines":["L1"]
   },
   {
     "id": "21",
     "lat": "34.017985",
     "lng": "-6.831496",
-    "name": "Station Place Al Joulane-L1"
+    "name": "Station Place Al Joulane-L1",
+    "lines":["L1"]
   },
   {
     "id": "22",
     "lat": "34.015859",
     "lng": "-6.836635",
-    "name": "Station Mohammed V Gare de Rabat"
+    "name": "Station Mohammed V Gare de Rabat",
+    "lines":["L1"]
   },
   {
     "id": "23",
     "lat": "34.011773",
     "lng": "-6.839430",
-    "name": "Station Bab Rouad"
+    "name": "Station Bab Rouah",
+    "lines":["L1"]
   },
   {
     "id": "24",
     "lat": "34.009781",
     "lng": "-6.842343",
-    "name": "Station Bibliothèque Nationale"
+    "name": "Station Bibliothèque Nationale",
+    "lines":["L1"]
   },
   {
     "id": "25",
     "lat": "34.005089",
     "lng": "-6.843357",
-    "name": "Station Ibn Khaldoun"
+    "name": "Station Ibn Khaldoun",
+    "lines":["L1"]
   },
   {
     "id": "26",
     "lat": "34.000002",
     "lng": "-6.843893",
-    "name": "Station Nations Unies"
+    "name": "Station Nations Unies",
+    "lines":["L1"]
   },
   {
     "id": "27",
     "lat": "33.997227",
     "lng": "-6.849381",
-    "name": "Station Agdal - Avenue de France"
+    "name": "Station Agdal - Avenue de France",
+    "lines":["L1"]
   },
   {
     "id": "28",
     "lat": "33.995737",
     "lng": "-6.851994",
-    "name": "Station Ibn Sina"
+    "name": "Station Ibn Sina",
+    "lines":["L1"]
   },
   {
     "id": "29",
     "lat": "33.994692",
     "lng": "-6.852863",
-    "name": "Station Ibn Rochd"
+    "name": "Station Ibn Rochd",
+    "lines":["L1"]
   },
   {
     "id": "30",
     "lat": "33.986036",
     "lng": "-6.861046",
-    "name": "Station Cité Universitaire Souissi"
+    "name": "Station Cité Universitaire Souissi",
+    "lines":["L1"]
   },
   {
     "id": "31",
     "lat": "33.982560",
     "lng": "-6.864361",
-    "name": "Station Madinat Al Irfane"
+    "name": "Station Madinat Al Irfane",
+    "lines":["L1"]
   },
   {
     "id": "32",
     "lat": "34.034334",
     "lng": "-6.793437",
-    "name": "Station Hay Salam"
-  },
-  {
-    "id": "33",
-    "lat": "34.032507",
-    "lng": "-6.787164",
-    "name": "Station Zarbia"
-  },
-  {
-    "id": "34",
-    "lat": "34.027196",
-    "lng": "-6.762534",
-    "name": "Station Hssain"
-  },
-  {
-    "id": "35",
-    "lat": "34.028423",
-    "lng": "-6.767695",
-    "name": "Station Bab Lkaria"
-  },
-  {
-    "id": "36",
-    "lat": "34.026263",
-    "lng": "-6.759026",
-    "name": "Station Hay El Wafaa"
-  },
-  {
-    "id": "37",
-    "lat": "34.030997",
-    "lng": "-6.780469",
-    "name": "Station Hay Moulay ismail"
-  },
-  {
-    "id": "38",
-    "lat": "34.029883",
-    "lng": "-6.774019",
-    "name": "Station La Rocade"
-  },
-  {
-    "id": "39",
-    "lat": "34.025196",
-    "lng": "-6.753956",
-    "name": "Station Hôpital Moulay Abdellah"
-  },
-  {
-    "id": "40",
-    "lat": "34.005016",
-    "lng": "-6.864628",
-    "name": "Station Al Houria"
-  },
-  {
-    "id": "41",
-    "lat": "34.001186",
-    "lng": "-6.867640",
-    "name": "Station Essalam"
-  },
-  {
-    "id": "42",
-    "lat": "33.995730",
-    "lng": "-6.871748",
-    "name": "Station Oued Dahab"
-  },
-  {
-    "id": "43",
-    "lat": "33.991523",
-    "lng": "-6.871777",
-    "name": "Station Yacoub Al Mansour"
+    "name": "Station Hay Salam",
+    "lines":["L1"]
   }
+
 ]
