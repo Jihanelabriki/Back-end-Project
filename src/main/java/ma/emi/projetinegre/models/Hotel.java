@@ -16,6 +16,7 @@ public class Hotel {
         private String image ;
         private String url ;
         private double etoiles;
+        private String quartier;
 
     public String getUrl() {
         return url;
@@ -91,5 +92,11 @@ public class Hotel {
     }
 
 
+    public String getQuartier() {
+        return quartier;
+    }
 
+    public void setQuartier(String quartier) {
+        this.quartier = quartier;
+    }
 }

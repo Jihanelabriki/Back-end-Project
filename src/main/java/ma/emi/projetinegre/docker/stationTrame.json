@@ -221,7 +221,94 @@
     "lat": "34.034334",
     "lng": "-6.793437",
     "name": "Station Hay Salam",
-    "lines":["L1"]
-  }
+    "lines":["L2"]
+  },
 
+  {
+    "id": "33",
+    "lat": "34.032507",
+    "lng": "-6.787164",
+    "name": "Station Zarbia",
+    "lines":["L2"]
+  },
+  {
+    "id": "34",
+    "lat": "34.027196",
+    "lng": "-6.762534",
+    "name": "Station Hssain",
+    "lines":["L2"]
+  },
+
+  {
+    "id": "35",
+    "lat": "34.028423",
+    "lng": "-6.762534",
+    "name": "Station Bab Lkaria",
+    "lines":["L2"]
+  },
+
+  {
+    "id": "36",
+    "lat": "34.026263",
+    "lng": "-6.759026",
+    "name": "Station Hay El Wafaa",
+    "lines":["L2"]
+  },
+
+  {
+    "id": "37",
+    "lat": "34.030997",
+    "lng": "-6.780469",
+    "name": "Station Hay Moulay ismail",
+    "lines":["L2"]
+  },
+
+  {
+    "id": "38",
+    "lat": "34.029883",
+    "lng": "-6.774019",
+    "name": "Station La Rocade",
+    "lines":["L2"]
+  },
+
+  {
+    "id": "39",
+    "lat": "34.025196",
+    "lng": "-6.753956",
+    "name": "Station Hôpital Moulay Abdellah",
+    "lines":["L2"]
+  },
+
+  {
+    "id": "40",
+    "lat": "34.005016",
+    "lng": "-6.864628",
+    "name": "Station Al Houria",
+    "lines":["L2"]
+  },
+
+
+  {
+    "id": "41",
+    "lat": "34.001186",
+    "lng": "-6.867640",
+    "name": "Station Essalam",
+    "lines":["L2"]
+  },
+
+  {
+    "id": "42",
+    "lat": "33.995730",
+    "lng": "-6.871748",
+    "name": "Station Oued Dahab",
+    "lines":["L2"]
+  },
+
+  {
+    "id": "43",
+    "lat": "33.995730",
+    "lng": "-6.871748",
+    "name": "Station Yacoub Al Mansour",
+    "lines":["L2"]
+  }
 ]
